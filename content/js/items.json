@@ -1,0 +1,3194 @@
+[
+  {
+    "id": "67934B8E",
+    "name": "The Wizard's Companion",
+    "description": "A venerable tome, containing wizarding knowledge from ancient times to the present day.",
+    "effect": ""
+  },
+  {
+    "id": "4CBE184D",
+    "name": "Locket",
+    "description": "A vessel worn around the neck, designed to store pieces of people's hearts.",
+    "effect": ""
+  },
+  {
+    "id": "1AE4BFCB",
+    "name": "Proof of Wits",
+    "description": "A crest encased in a spherical gem that proves its owner has overcome the sagely Test of Wits.",
+    "effect": ""
+  },
+  {
+    "id": "03FF8E8A",
+    "name": "Proof of Friendship",
+    "description": "A crest encased in a spherical gem that proves its owner has overcome the sagely Test of Friendship.",
+    "effect": ""
+  },
+  {
+    "id": "28D2DD49",
+    "name": "Proof of Strength",
+    "description": "A crest encased in a spherical gem that proves its owner has overcome the sagely Test of Strength.",
+    "effect": ""
+  },
+  {
+    "id": "31C9EC08",
+    "name": "Peculiar Pot",
+    "description": "A large, garishly decorated cooking pot. It is much too large for use in a normal kitchen.",
+    "effect": ""
+  },
+  {
+    "id": "B651F0C7",
+    "name": "Cauldron",
+    "description": "A vessel used to blend items together in order to create new ones. It is also the home of the genie Al-Khemi.",
+    "effect": ""
+  },
+  {
+    "id": "AF4AC186",
+    "name": "Giant Cheese Wedge",
+    "description": "A magically produced hunk of cheese that requires both hands to carry. The Cowlipha's favorite snack.",
+    "effect": ""
+  },
+  {
+    "id": "7F4A10F8",
+    "name": "Portrait",
+    "description": "A picture of the Great Sage who is said to reside in the city of Hamelin. He looks like a very handsome man.",
+    "effect": ""
+  },
+  {
+    "id": "665121B9",
+    "name": "Letter of Passage",
+    "description": "A letter that grants its bearer permission to board the Sea Cow, Her Moojesty's very own ship.",
+    "effect": ""
+  },
+  {
+    "id": "4D7C727A",
+    "name": "Piece of Art",
+    "description": "One of the elements of comedy that fairies possess in abundance. There are said to be eight in total...",
+    "effect": ""
+  },
+  {
+    "id": "5467433B",
+    "name": "Skeleton Key",
+    "description": "A key obtained on the Tombstone Trail of the past. But can it still be used in the present day...?",
+    "effect": ""
+  },
+  {
+    "id": "1B26D5FC",
+    "name": "RIP Pass",
+    "description": "A pass that allows the bearer to access an extremely exclusive RIP area.",
+    "effect": ""
+  },
+  {
+    "id": "023DE4BD",
+    "name": "Bronze Ticket",
+    "description": "A bronze ticket that allows the bearer to view certain movies in the RIP area's Mem-O-Vision theater.",
+    "effect": ""
+  },
+  {
+    "id": "2910B77E",
+    "name": "Silver Ticket",
+    "description": "A silver ticket that allows the bearer to view certain movies in the RIP area's Mem-O-Vision theater.",
+    "effect": ""
+  },
+  {
+    "id": "300B863F",
+    "name": "Golden Ticket",
+    "description": "A gold ticket that allows the bearer to view certain movies in the RIP area's Mem-O-Vision theater.",
+    "effect": ""
+  },
+  {
+    "id": "B7939AF0",
+    "name": "Platinum Ticket",
+    "description": "A platinum ticket that allows the bearer to view certain movies in the RIP area's Mem-O-Vision theater.",
+    "effect": ""
+  },
+  {
+    "id": "4F3ACC23",
+    "name": "Dragon Horn",
+    "description": "A horn whose distinctive call can be heard by Tengri, wherever he may be. Press [key_u] to summon him.",
+    "effect": ""
+  },
+  {
+    "id": "5621FD62",
+    "name": "Map of the Stones",
+    "description": "A map that shows the locations of the three magic stones required to restore Mornstar's power.",
+    "effect": ""
+  },
+  {
+    "id": "19606BA5",
+    "name": "Serpent Key",
+    "description": "A key that opens the door to the Vault of Tears. A sinister snake is coiled around its shaft.",
+    "effect": ""
+  },
+  {
+    "id": "007B5AE4",
+    "name": "Sun Stone",
+    "description": "One of the Wizard King's three magic stones. The life force contained within can cause the very earth to swell.",
+    "effect": ""
+  },
+  {
+    "id": "2B560927",
+    "name": "Star Stone",
+    "description": "One of the Wizard King's three magic stones. The light contained within is truly dazzling.",
+    "effect": ""
+  },
+  {
+    "id": "324D3866",
+    "name": "Moon Stone",
+    "description": "One of the Wizard King's three magic stones. The darkness within is like that of the night sky.",
+    "effect": ""
+  },
+  {
+    "id": "B5D524A9",
+    "name": "Wings of Xanadu",
+    "description": "A medal entrusted to you by a female soldier from Xanadu. It is the only proof that she exists.",
+    "effect": ""
+  },
+  {
+    "id": "ACCE15E8",
+    "name": "Piece of Holy Wood",
+    "description": "A piece of wood, taken from a holy tree near Al Mamoon. Even in darkness, it gleams like polished silver.",
+    "effect": ""
+  },
+  {
+    "id": "7CCEC496",
+    "name": "Piece of Carved Holy Wood",
+    "description": "A piece of wood, carved by King Tom in the ancient tradition of Ding Dong Dell royalty.",
+    "effect": ""
+  },
+  {
+    "id": "65D5F5D7",
+    "name": "The Clarion",
+    "description": "An instrument made using the talents of three kingdoms, and renowned as a symbol of peace.",
+    "effect": ""
+  },
+  {
+    "id": "04F62656",
+    "name": "Alicia's Pendant",
+    "description": "A pendant that was given to Allie by Lucien. It contains nothing but pure motherly love.",
+    "effect": ""
+  },
+  {
+    "id": "4EF8A614",
+    "name": "Flower of Youth",
+    "description": "A faintly glowing flower that contains a memory. Its soft red light represents blessing and prayer.",
+    "effect": ""
+  },
+  {
+    "id": "57E39755",
+    "name": "Flower of Faith",
+    "description": "A faintly glowing flower that contains a memory. Its soft blue light symbolizes a vow that was made.",
+    "effect": ""
+  },
+  {
+    "id": "18A20192",
+    "name": "Flower of Hope",
+    "description": "A faintly glowing flower that contains a memory. Its soft golden light is a symbol of hope.",
+    "effect": ""
+  },
+  {
+    "id": "1DED1717",
+    "name": "Name Tag",
+    "description": "This tag proves that your bond with your familiars is so deep, they'll even let you change their names.",
+    "effect": ""
+  },
+  {
+    "id": "01B930D3",
+    "name": "Philmobile Key",
+    "description": "A key to a sporty yellow car. Press [key_d] to get behind the wheel of the Philmobile.\n",
+    "effect": ""
+  },
+  {
+    "id": "2A946310",
+    "name": "Cherub's Wing",
+    "description": "An elegant wing that once belonged to an angel. It can be used to enhance the heart-winning harp.",
+    "effect": ""
+  },
+  {
+    "id": "338F5251",
+    "name": "Heart of the Muse",
+    "description": "A gem that enables one to commune with all living things. It can be used to enhance the heart-winning harp.",
+    "effect": ""
+  },
+  {
+    "id": "B4174E9E",
+    "name": "Blossom of the Bard",
+    "description": "A decorative flower, much-prized by fairy comedians. It can be used to enhance the heart-winning harp.",
+    "effect": ""
+  },
+  {
+    "id": "AD0C7FDF",
+    "name": "Hog's Cog",
+    "description": "A part that fell from a tank belonging to the Hamelin army. It can be used to improve the performance of handguns.",
+    "effect": ""
+  },
+  {
+    "id": "7981D213",
+    "name": "Gyro-Grappler",
+    "description": "A piece of cutting-edge Hamelin technology. It can be used to improve the performance of handguns.",
+    "effect": ""
+  },
+  {
+    "id": "609AE352",
+    "name": "Cad's Clasp",
+    "description": "A prized piece of vintage Hamelin engineering. It can be used to improve the performance of handguns.",
+    "effect": ""
+  },
+  {
+    "id": "4BB7B091",
+    "name": "Riddle Rivet",
+    "description": "A curious part about which nothing is known, save that it can apparently improve the performance of handguns.",
+    "effect": ""
+  },
+  {
+    "id": "55A5290C",
+    "name": "Mirror of Truth",
+    "description": "A magical mirror, said to contain a great truth. No reflection appears when one gazes into it...",
+    "effect": ""
+  },
+  {
+    "id": "7B60E87F",
+    "name": "Spirit of the Woods",
+    "description": "A deep green orb that once belonged to the Guardian of the Woods. A roaring gale is sealed within.",
+    "effect": ""
+  },
+  {
+    "id": "2D3A4FF9",
+    "name": "Spirit of the Glade",
+    "description": "A blood-red orb that once belonged to a mighty warrior. Unquenchable fighting spirit is sealed within.",
+    "effect": ""
+  },
+  {
+    "id": "1F0C2D7B",
+    "name": "Spirit of the Temple",
+    "description": "A crimson orb that once belonged to a beast with two blades. Countless sword strikes ring out from within.",
+    "effect": ""
+  },
+  {
+    "id": "818F00F5",
+    "name": "Spirit of the Flame",
+    "description": "A blazing orb that once belonged to an enormous, fiery giant. Roaring flames are sealed within.",
+    "effect": ""
+  },
+  {
+    "id": "4894E0CA",
+    "name": "Spirit of the Storm",
+    "description": "A shining orb that once belonged to a creature which crackled with energy. A mighty storm is sealed within.",
+    "effect": ""
+  },
+  {
+    "id": "7AA28248",
+    "name": "Spirit of the Snow",
+    "description": "An icy orb that once belonged to a huge wolf. A raging blizzard is contained within.",
+    "effect": ""
+  },
+  {
+    "id": "E8F1DCD9",
+    "name": "Red Earring",
+    "description": "A shiny red earring, given to a young grimalkin by her grandmother.",
+    "effect": ""
+  },
+  {
+    "id": "C3DC8F1A",
+    "name": "Lovers' Lunch Basket",
+    "description": "A generously sized picnic, made with love by a wife for her husband. It looks nice and nutritious, too.",
+    "effect": ""
+  },
+  {
+    "id": "DAC7BE5B",
+    "name": "Turmeric Root",
+    "description": "A rare root harvested from the lumberwood. Dried and ground, it makes for a very popular spice.",
+    "effect": ""
+  },
+  {
+    "id": "9586289C",
+    "name": "Pinch of Spicy Seeds",
+    "description": "Bright red seeds that are usually found in volcanic regions. They are a very popular spice.",
+    "effect": ""
+  },
+  {
+    "id": "8C9D19DD",
+    "name": "Bowl of Sheikh's Special Spices",
+    "description": "A blend of rare spices, made in Al Mamoon according to a top-secret recipe. ",
+    "effect": ""
+  },
+  {
+    "id": "A7B04A1E",
+    "name": "Rainbow Leaf",
+    "description": "An extremely beautiful leaf, dropped by the floret. Keep it in a cool place, or it will wilt.",
+    "effect": ""
+  },
+  {
+    "id": "BEAB7B5F",
+    "name": "Slapstick",
+    "description": "The preferred prop of every fairy comedian. This model has a fine tone and an easy-grip, non-slip handle.",
+    "effect": ""
+  },
+  {
+    "id": "39336790",
+    "name": "Feel-good Fungus",
+    "description": "Despite looking rather unappetizing, this rare fungus has the power to cure every known ailment.",
+    "effect": ""
+  },
+  {
+    "id": "202856D1",
+    "name": "Broken Booster",
+    "description": "A broken aircraft part that seems to be well beyond repair.",
+    "effect": ""
+  },
+  {
+    "id": "F02887AF",
+    "name": "Brand-new Booster",
+    "description": "An aircraft part that's been restored to top condition, and polished to a fine metallic gleam.",
+    "effect": ""
+  },
+  {
+    "id": "E933B6EE",
+    "name": "Snazzy Swimsuit",
+    "description": "The latest in Castaway Cove swimwear fashion. Just the thing to make heads turn this summer!",
+    "effect": ""
+  },
+  {
+    "id": "C21EE52D",
+    "name": "Hometown Flower",
+    "description": "A young girl in Perdida seems to want this regular tulip more than anything else in the world.",
+    "effect": ""
+  },
+  {
+    "id": "DB05D46C",
+    "name": "Cold Compress",
+    "description": "This medical compress has a surface as soft as powder snow and soothes soreness in a matter of moments.",
+    "effect": ""
+  },
+  {
+    "id": "944442AB",
+    "name": "Set of Cat's Whiskers",
+    "description": "A badge of honor, given to Ding Dong Dell's most accomplished guards. Also a popular fancy dress item.",
+    "effect": ""
+  },
+  {
+    "id": "8D5F73EA",
+    "name": "Traveler's Diary",
+    "description": "A diary recounting someone's journey through the Rolling Hills.",
+    "effect": ""
+  },
+  {
+    "id": "A6722029",
+    "name": "Traveler's Diary",
+    "description": "A diary recounting someone's journey around the foothills of Old Smoky.",
+    "effect": ""
+  },
+  {
+    "id": "BF691168",
+    "name": "Traveler's Diary",
+    "description": "A diary recounting someone's journey to Teeheeti.",
+    "effect": ""
+  },
+  {
+    "id": "38F10DA7",
+    "name": "Traveler's Diary",
+    "description": "A diary recounting someone's journey across the Pig Iron Plain.",
+    "effect": ""
+  },
+  {
+    "id": "21EA3CE6",
+    "name": "Traveler's Diary",
+    "description": "A diary recounting someone's journey through the Winter Wonderlands.",
+    "effect": ""
+  },
+  {
+    "id": "F26E39F6",
+    "name": "Traveler's Diary",
+    "description": "A diary recounting someone's journey to Nazcaä.",
+    "effect": ""
+  },
+  {
+    "id": "EB7508B7",
+    "name": "Traveler's Diary",
+    "description": "A diary recounting the tale of how someone discovered ancient ruins to the south of Ding Dong Dell.",
+    "effect": ""
+  },
+  {
+    "id": "FA447337",
+    "name": "Lumberwood Ticket",
+    "description": "A familiar ticket that can be exchanged for a lumberwood.",
+    "effect": ""
+  },
+  {
+    "id": "D16920F4",
+    "name": "Relixx Ticket",
+    "description": "A familiar ticket that can be exchanged for a relixx.",
+    "effect": ""
+  },
+  {
+    "id": "C87211B5",
+    "name": "Dinoceros Ticket",
+    "description": "A familiar ticket that can be exchanged for a dinoceros.",
+    "effect": ""
+  },
+  {
+    "id": "87338772",
+    "name": "Idler Ticket",
+    "description": "A familiar ticket that can be exchanged for an idler.",
+    "effect": ""
+  },
+  {
+    "id": "9E28B633",
+    "name": "Tin-Man Ticket",
+    "description": "A familiar ticket that can be exchanged for a golden tin-man.",
+    "effect": ""
+  },
+  {
+    "id": "B505E5F0",
+    "name": "Mandragorer Ticket",
+    "description": "A familiar ticket that can be exchanged for a mandragorer.",
+    "effect": ""
+  },
+  {
+    "id": "AC1ED4B1",
+    "name": "Draggle Ticket",
+    "description": "A familiar ticket that can be exchanged for a draggle.",
+    "effect": ""
+  },
+  {
+    "id": "2B86C87E",
+    "name": "Mite Ticket",
+    "description": "A familiar ticket that can be exchanged for a golden mite.",
+    "effect": ""
+  },
+  {
+    "id": "329DF93F",
+    "name": "Drongo Ticket",
+    "description": "A familiar ticket that can be exchanged for a golden drongo.",
+    "effect": ""
+  },
+  {
+    "id": "E29D2841",
+    "name": "Hurly Ticket",
+    "description": "A familiar ticket that can be exchanged for a golden hurly.",
+    "effect": ""
+  },
+  {
+    "id": "FB861900",
+    "name": "Sapdragon Ticket",
+    "description": "A familiar ticket that can be exchanged for a sapdragon.",
+    "effect": ""
+  },
+  {
+    "id": "D0AB4AC3",
+    "name": "Flutterby Ticket",
+    "description": "A familiar ticket that can be exchanged for a flutterby.",
+    "effect": ""
+  },
+  {
+    "id": "C9B07B82",
+    "name": "Griffy Ticket",
+    "description": "A familiar ticket that can be exchanged for a griffy.",
+    "effect": ""
+  },
+  {
+    "id": "877921FE",
+    "name": "Loaf of White Bread",
+    "description": "Soft white bread that never seems to go stale. Its fluffy texture makes it filling but not heavy.",
+    "effect": "<color:#4>Restores 30 HP.</color>"
+  },
+  {
+    "id": "AC54723D",
+    "name": "Sandwich",
+    "description": "A luxurious sandwich, filled with thick, juicy cuts of prime beef.",
+    "effect": "<color:#4>Restores 100 HP.</color>"
+  },
+  {
+    "id": "B54F437C",
+    "name": "Fishburger",
+    "description": "A circular sandwich containing a deep-fried fillet of fish. The lack of bones makes for easy eating.",
+    "effect": "<color:#4>Restores 150 HP.</color>"
+  },
+  {
+    "id": "FA0ED5BB",
+    "name": "Cheeseburger",
+    "description": "A juicy all-beef patty, plenty of fresh salad, and some melted cheese, served in a toasted bun.",
+    "effect": "<color:#4>Restores 250 HP.</color>"
+  },
+  {
+    "id": "E315E4FA",
+    "name": "Tonic",
+    "description": "An invigorating fluid, made using medicinal herbs. It soaks into deep wounds, easing their pain.",
+    "effect": "<color:#4>Fully restores HP.</color>"
+  },
+  {
+    "id": "C838B739",
+    "name": "Bowl of Tikka Mahala",
+    "description": "A marriage of tender beef, chunky vegetables, and exquisite spices that will leave you wanting more.",
+    "effect": "<color:#4>Restores 150 HP.</color>"
+  },
+  {
+    "id": "D1238678",
+    "name": "Bottle of Pixie Dew",
+    "description": "A restorative dew collected from the leaves of a forest glade where pixies were once said to play.",
+    "effect": "<color:#4>Restores 100 HP to all party members.</color>"
+  },
+  {
+    "id": "56BB9AB7",
+    "name": "Bottle of Sprite Dew",
+    "description": "Though not technically dew, this spritely byproduct is blessed with miraculous healing properties.",
+    "effect": "<color:#4>Restores 200 HP to all allies.</color>"
+  },
+  {
+    "id": "4FA0ABF6",
+    "name": "Bottle of Iced Coffee",
+    "description": "A sweet, milky drink with a gentle coffee flavor. So mild that even children can enjoy it.",
+    "effect": "<color:#5>Restores 10 MP.</color>"
+  },
+  {
+    "id": "9FA07A88",
+    "name": "Cup of Strong Coffee",
+    "description": "A coffee with a deep, bitter flavor. Its strength makes it something of an acquired taste.",
+    "effect": "<color:#5>Restores 30 MP.</color>"
+  },
+  {
+    "id": "86BB4BC9",
+    "name": "Cappuccino",
+    "description": "A rich cappuccino that combines coffee and frothy milk to provide a uniquely refreshing experience.",
+    "effect": "<color:#5>Restores 70 MP.</color>"
+  },
+  {
+    "id": "AD96180A",
+    "name": "Espresso",
+    "description": "A dark coffee that's almost too bitter to drink. A single sip is enough to get your brain in gear.",
+    "effect": "<color:#5>Restores 150 MP.</color>"
+  },
+  {
+    "id": "B48D294B",
+    "name": "Bottle of Nostrum",
+    "description": "A magical elixir with a slightly sweet aroma that invigorates the weary heart. Restores magical power.",
+    "effect": "<color:#5>Fully restores MP.</color>"
+  },
+  {
+    "id": "FBCCBF8C",
+    "name": "Vial of Sage's Secret",
+    "description": "Several eminent sages worked on the development of this potion, which restores mind and body alike.",
+    "effect": "Restores 100 HP and MP."
+  },
+  {
+    "id": "E2D78ECD",
+    "name": "Vial of Great Sage's Secret",
+    "description": "An extremely effective potion, created by fairies who were commissioned by a famous wizard.",
+    "effect": "Fully restores HP and MP."
+  },
+  {
+    "id": "C9FADD0E",
+    "name": "Vial of Wizard King's Secret",
+    "description": "Said to be an invention of the greatest wizard in history, this potion's restorative power is unequalled.",
+    "effect": "Fully restores HP and MP to all allies."
+  },
+  {
+    "id": "95CC8E10",
+    "name": "Phoenix Feather",
+    "description": "A magical feather that can restore consciousness to one who has fallen during battle.",
+    "effect": "Restores consciousness."
+  },
+  {
+    "id": "BEE1DDD3",
+    "name": "Phoenix Tear",
+    "description": "A beautiful, crystal-clear teardrop, shed to commiserate those who have died in battle.",
+    "effect": "Restores consciousness and fully restores HP."
+  },
+  {
+    "id": "A7FAEC92",
+    "name": "Pouch of Phoenix Breath",
+    "description": "The breath of a sacred beast, known to revive even the most reckless of fallen warriors.",
+    "effect": "Restores consciousness and full HP to all allies."
+  },
+  {
+    "id": "2D70E975",
+    "name": "Poison-Be-Gone",
+    "description": "Leaves that extract poison from the body. Their bitter aftertaste is said to be proof of their effectiveness.",
+    "effect": "Cures poison."
+  },
+  {
+    "id": "065DBAB6",
+    "name": "Nix-Be-Gone",
+    "description": "A curious paintbrush, the bristles of which are imbued with the power to cure nixed magic users.",
+    "effect": "Counteracts nixes."
+  },
+  {
+    "id": "1F468BF7",
+    "name": "Confusion-Be-Gone",
+    "description": "A quick tap on the head with this hammer will restore clarity to the most muddled of minds.",
+    "effect": "Cures confusion."
+  },
+  {
+    "id": "50071D30",
+    "name": "Sleep-Be-Gone",
+    "description": "This alarm clock will cause one to wake from the deepest slumber feeling refreshed and alert.",
+    "effect": "Cures sleepiness."
+  },
+  {
+    "id": "491C2C71",
+    "name": "Stone-Be-Gone",
+    "description": "A magical powder that frees an ally from petrification's stony prison.",
+    "effect": "Cures petrification."
+  },
+  {
+    "id": "62317FB2",
+    "name": "Curse-Be-Gone",
+    "description": "Cool, refreshing water that has been blessed with the power to lift curses.",
+    "effect": "Lifts curses."
+  },
+  {
+    "id": "7B2A4EF3",
+    "name": "Blindness-Be-Gone",
+    "description": "The core of this strange fruit glows brightly, and has long been used to aid those overcome by darkness.",
+    "effect": "Cures blindness."
+  },
+  {
+    "id": "FCB2523C",
+    "name": "All-Be-Gone",
+    "description": "This miraculous substance will cure a conscious ally of all ailments. Very valuable and difficult to obtain.",
+    "effect": "Cures all ailments."
+  },
+  {
+    "id": "450F34C8",
+    "name": "Bar of Chocolate",
+    "description": "Chocolate with a high sugar content, making it popular with those who have a sweet tooth.",
+    "effect": "<color:#12>Attack</color> Increase: [prm_grow1]\nHeaviness:     [prm_onaka]"
+  },
+  {
+    "id": "47498A91",
+    "name": "Bar of Milk Chocolate",
+    "description": "Good-quality chocolate with a creamy, melt-in-the-mouth texture that's simply divine.",
+    "effect": "<color:#12>Attack</color> Increase: [prm_grow1][prm_grow1]\nHeaviness:     [prm_onaka]"
+  },
+  {
+    "id": "6C64D952",
+    "name": "Bar of Fairy Chocolate",
+    "description": "Bubbly texture and surpassing sweetness are the keys to this treat's popularity. A great pick-me-up.",
+    "effect": "<color:#12>Attack</color> Increase: [prm_grow1][prm_grow1][prm_grow1]\nHeaviness:     [prm_onaka][prm_onaka]"
+  },
+  {
+    "id": "757FE813",
+    "name": "Handful of Chocolate Bonbons",
+    "description": "Chocolate that comes in cute little bite-sized pieces, making it a perfect snack for sharing.",
+    "effect": "<color:#12>Attack</color> Increase: [prm_grow1][prm_grow1][prm_grow1][prm_grow1]\nHeaviness:     [prm_onaka][prm_onaka][prm_onaka]"
+  },
+  {
+    "id": "3A3E7ED4",
+    "name": "Handful of Snowdrop Bonbons",
+    "description": "Delicately flavored chunks of bright blue chocolate which seem to cool the mouth as they melt.",
+    "effect": "<color:#12>Attack</color> Increase: [prm_grow1][prm_grow1][prm_grow1][prm_grow1][prm_grow1]\nHeaviness:     [prm_onaka][prm_onaka][prm_onaka][prm_onaka]"
+  },
+  {
+    "id": "23254F95",
+    "name": "Princess Chocolate",
+    "description": "Luxurious chocolates, packed with fresh berries. Their fabulous flavor will make anyone feel like royalty!",
+    "effect": "<color:#12>Attack</color> Increase: [prm_grow2][prm_grow2][prm_grow2][prm_grow2][prm_grow2][prm_grow2]\nHeaviness:     [prm_onaka][prm_onaka][prm_onaka][prm_onaka][prm_onaka]"
+  },
+  {
+    "id": "6E22670B",
+    "name": "Flan",
+    "description": "A silky set custard, served in a rich caramel sauce that adds a delightful touch of bitterness.",
+    "effect": "<color:#12>Defense</color> Increase: [prm_grow1]\nHeaviness:     [prm_onaka]"
+  },
+  {
+    "id": "08081C56",
+    "name": "Creamy Flan",
+    "description": "A light set custard that wobbles pleasingly. Its smoothness is the stuff of legend.",
+    "effect": "<color:#12>Defense</color> Increase: [prm_grow1][prm_grow1]\nHeaviness:     [prm_onaka]"
+  },
+  {
+    "id": "11132D17",
+    "name": "Babana Flan",
+    "description": "The smell of fresh babanas makes this flan an appetizing treat. Also known as the \"dessert of the desert.\"",
+    "effect": "<color:#12>Defense</color> Increase: [prm_grow1][prm_grow1][prm_grow1]\nHeaviness:     [prm_onaka][prm_onaka]"
+  },
+  {
+    "id": "968B31D8",
+    "name": "Frosty Flan",
+    "description": "A flan with a satisfyingly crunchy texture. Despite its name and color, however, it is not actually frozen.",
+    "effect": "<color:#12>Defense</color> Increase: [prm_grow1][prm_grow1][prm_grow1][prm_grow1]\nHeaviness:     [prm_onaka][prm_onaka][prm_onaka]"
+  },
+  {
+    "id": "8F900099",
+    "name": "Fruit Flan",
+    "description": "A flan that's packed with juicy grapes for an intensely fruity flavor.",
+    "effect": "<color:#12>Defense</color> Increase: [prm_grow1][prm_grow1][prm_grow1][prm_grow1][prm_grow1]\nHeaviness:     [prm_onaka][prm_onaka][prm_onaka][prm_onaka]"
+  },
+  {
+    "id": "5F90D1E7",
+    "name": "Fantastic Flan",
+    "description": "This wonderful flan shines like a star and brings good luck to whoever eats it.",
+    "effect": "<color:#12>Defense</color> Increase: [prm_grow2][prm_grow2][prm_grow2][prm_grow2][prm_grow2][prm_grow2]\nHeaviness:     [prm_onaka][prm_onaka][prm_onaka][prm_onaka][prm_onaka]"
+  },
+  {
+    "id": "7739564A",
+    "name": "Cake",
+    "description": "This simple strawberry sponge is a baker's staple, popular with people of all ages in every part of the world.",
+    "effect": "<color:#12>Magical Attack</color> Increase: [prm_grow1]\nHeaviness:     [prm_onaka]"
+  },
+  {
+    "id": "468BE0A6",
+    "name": "Carrot Cake",
+    "description": "Packed with sweet, juicy carrots, this cake is a good way to get children to eat more vegetables.",
+    "effect": "<color:#12>Magical Attack</color> Increase: [prm_grow1][prm_grow1]\nHeaviness:     [prm_onaka]"
+  },
+  {
+    "id": "6DA6B365",
+    "name": "Carnation Cake",
+    "description": "An immaculately presented cake, with a flowery aroma that's sure to have a calming effect.",
+    "effect": "<color:#12>Magical Attack</color> Increase: [prm_grow1][prm_grow1][prm_grow1]\nHeaviness:     [prm_onaka][prm_onaka]"
+  },
+  {
+    "id": "74BD8224",
+    "name": "Breeze Cake",
+    "description": "This cake has a powerful breeze trapped inside, providing a unique sensation for those who bite into it.",
+    "effect": "<color:#12>Magical Attack</color> Increase: [prm_grow1][prm_grow1][prm_grow1][prm_grow1]\nHeaviness:     [prm_onaka][prm_onaka][prm_onaka]"
+  },
+  {
+    "id": "3BFC14E3",
+    "name": "Patty Cake",
+    "description": "A cake said to contain equal measures of vim and vigor. Brings a smile to anyone who tries it.",
+    "effect": "<color:#12>Magical Attack</color> Increase: [prm_grow1][prm_grow1][prm_grow1][prm_grow1][prm_grow1]\nHeaviness:     [prm_onaka][prm_onaka][prm_onaka][prm_onaka]"
+  },
+  {
+    "id": "22E725A2",
+    "name": "Hot Cake",
+    "description": "The power of a fiery dragon is said to be contained within this magical cake. Its taste is simply out of this world.",
+    "effect": "<color:#12>Magical Attack</color> Increase: [prm_grow2][prm_grow2][prm_grow2][prm_grow2][prm_grow2][prm_grow2]\nHeaviness:     [prm_onaka][prm_onaka][prm_onaka][prm_onaka][prm_onaka]"
+  },
+  {
+    "id": "3878C08D",
+    "name": "Sundae",
+    "description": "A chilled dessert that has a fine, refreshing sweetness. Almost anything can be added as a topping.",
+    "effect": "<color:#12>Magical Defense</color> Increase: [prm_grow1]\nHeaviness:     [prm_onaka]"
+  },
+  {
+    "id": "09CA7661",
+    "name": "Sour Sundae",
+    "description": "A sundae made using generous helpings of yogurt, giving it a really mouthwatering tang.",
+    "effect": "<color:#12>Magical Defense</color> Increase: [prm_grow1][prm_grow1]\nHeaviness:     [prm_onaka]"
+  },
+  {
+    "id": "10D14720",
+    "name": "Wildflower Sundae",
+    "description": "A sundae flavored with wild flowers. While its taste is rather subtle, it is also curiously comforting.",
+    "effect": "<color:#12>Magical Defense</color> Increase: [prm_grow1][prm_grow1][prm_grow1]\nHeaviness:     [prm_onaka][prm_onaka]"
+  },
+  {
+    "id": "97495BEF",
+    "name": "Toadstool Sundae",
+    "description": "This sundae's curious appearance puts many people off eating it—a real waste, as its taste is truly sensational!",
+    "effect": "<color:#12>Magical Defense</color> Increase: [prm_grow1][prm_grow1][prm_grow1][prm_grow1]\nHeaviness:     [prm_onaka][prm_onaka][prm_onaka]"
+  },
+  {
+    "id": "8E526AAE",
+    "name": "Sarsaparilla Sundae",
+    "description": "Though packed with nutrients, this sundae's intensely sour flavor makes for a poor \"treat.\"",
+    "effect": "<color:#12>Magical Defense</color> Increase: [prm_grow1][prm_grow1][prm_grow1][prm_grow1][prm_grow1]\nHeaviness:     [prm_onaka][prm_onaka][prm_onaka][prm_onaka]"
+  },
+  {
+    "id": "5DD66FBE",
+    "name": "Knickerbocker Glory",
+    "description": "This \"king of sundaes\" enjoys the sort of enduring popularity that has proved elusive for many world leaders.",
+    "effect": "<color:#12>Magical Defense</color> Increase: [prm_grow2][prm_grow2][prm_grow2][prm_grow2][prm_grow2][prm_grow2]\nHeaviness:     [prm_onaka][prm_onaka][prm_onaka][prm_onaka][prm_onaka]"
+  },
+  {
+    "id": "0A4EA20F",
+    "name": "Slice of Pie",
+    "description": "A piping hot pie with a crumbly crust. The sight of one is enough to whet anyone's appetite.",
+    "effect": "<color:#12>Accuracy</color> Increase: [prm_grow1]\nHeaviness:     [prm_onaka]"
+  },
+  {
+    "id": "0B8CC838",
+    "name": "Slice of Sweetie Pie",
+    "description": "A pie with a sweet filling and a soft, yet firm crust. Best eaten while still hot from the oven.",
+    "effect": "<color:#12>Accuracy</color> Increase: [prm_grow1][prm_grow1]\nHeaviness:     [prm_onaka]"
+  },
+  {
+    "id": "1297F979",
+    "name": "Slice of See-Through Pie",
+    "description": "The gelatinous filling of this pie is so clear that one would be forgiven for missing it altogether.",
+    "effect": "<color:#12>Accuracy</color> Increase: [prm_grow1][prm_grow1][prm_grow1]\nHeaviness:     [prm_onaka][prm_onaka]"
+  },
+  {
+    "id": "950FE5B6",
+    "name": "Slice of Game Pie",
+    "description": "A pie filled with fine cuts of various meats. The sound of stampeding hooves can be heard within.",
+    "effect": "<color:#12>Accuracy</color> Increase: [prm_grow1][prm_grow1][prm_grow1][prm_grow1]\nHeaviness:     [prm_onaka][prm_onaka][prm_onaka]"
+  },
+  {
+    "id": "8C14D4F7",
+    "name": "Pie on the Bone",
+    "description": "A pie containing an entire joint of meat, served on the bone. And what better way to hold said snack?",
+    "effect": "<color:#12>Accuracy</color> Increase: [prm_grow1][prm_grow1][prm_grow1][prm_grow1][prm_grow1]\nHeaviness:     [prm_onaka][prm_onaka][prm_onaka][prm_onaka]"
+  },
+  {
+    "id": "5C140589",
+    "name": "Slice of Golden Pie",
+    "description": "This golden-brown pie has a rich, deep glow and a taste that makes it the darling of the baking industry.",
+    "effect": "<color:#12>Accuracy</color> Increase: [prm_grow2][prm_grow2][prm_grow2][prm_grow2][prm_grow2][prm_grow2]\nHeaviness:     [prm_onaka][prm_onaka][prm_onaka][prm_onaka][prm_onaka]"
+  },
+  {
+    "id": "2163F1CC",
+    "name": "Ice Cream",
+    "description": "This ice cream is just the thing when you need to cool down. Just be careful that you don't eat too much.",
+    "effect": "<color:#12>Evasion</color> Increase: [prm_grow1]\nHeaviness:     [prm_onaka]"
+  },
+  {
+    "id": "44CD5EFF",
+    "name": "Salted Ice Cream",
+    "description": "Though it may be an acquired taste, this ice cream's uniquely bittersweet flavor makes it perennially popular.",
+    "effect": "<color:#12>Evasion</color> Increase: [prm_grow1][prm_grow1]\nHeaviness:     [prm_onaka]"
+  },
+  {
+    "id": "6FE00D3C",
+    "name": "Ruby Ripple Ice Cream",
+    "description": "Though it gleams like a ruby, this ice cream does not contain any precious stones.",
+    "effect": "<color:#12>Evasion</color> Increase: [prm_grow1][prm_grow1][prm_grow1]\nHeaviness:     [prm_onaka][prm_onaka]"
+  },
+  {
+    "id": "76FB3C7D",
+    "name": "Soft Scoop Ice Cream",
+    "description": "An ice cream with a rare fluffiness that puts one in mind of a cloud.",
+    "effect": "<color:#12>Evasion</color> Increase: [prm_grow1][prm_grow1][prm_grow1][prm_grow1]\nHeaviness:     [prm_onaka][prm_onaka][prm_onaka]"
+  },
+  {
+    "id": "39BAAABA",
+    "name": "Snow-White Ice Cream",
+    "description": "A dazzlingly bright white ice cream that's popular with adults and children alike.",
+    "effect": "<color:#12>Evasion</color> Increase: [prm_grow1][prm_grow1][prm_grow1][prm_grow1][prm_grow1]\nHeaviness:     [prm_onaka][prm_onaka][prm_onaka][prm_onaka]"
+  },
+  {
+    "id": "20A19BFB",
+    "name": "Tutti-Frutti Ice Cream",
+    "description": "An ice cream that glitters with all the colors of the rainbow. So pretty, it seems a shame to eat it.",
+    "effect": "<color:#12>Evasion</color> Increase: [prm_grow2][prm_grow2][prm_grow2][prm_grow2][prm_grow2][prm_grow2]\nHeaviness:     [prm_onaka][prm_onaka][prm_onaka][prm_onaka][prm_onaka]"
+  },
+  {
+    "id": "55FC257F",
+    "name": "Sundrop",
+    "description": "A curious candy that's said to contain the power of the sun. Induces metamorphosis in familiars.",
+    "effect": "Allows a sun-sign familiar to metamorphose into a second form."
+  },
+  {
+    "id": "7ED176BC",
+    "name": "Stardrop",
+    "description": "A curious candy that's said to contain the power of the stars. Induces metamorphosis in familiars.",
+    "effect": "Allows a star-sign familiar to metamorphose into a second form."
+  },
+  {
+    "id": "67CA47FD",
+    "name": "Moondrop",
+    "description": "A curious candy that's said to contain the power of the moon. Induces metamorphosis in familiars.",
+    "effect": "Allows a moon-sign familiar to metamorphose into a second form."
+  },
+  {
+    "id": "288BD13A",
+    "name": "Planetdrop",
+    "description": "A curious candy that's said to contain the power of a planet. Induces metamorphosis in familiars.",
+    "effect": "Allows a planet-sign familiar to metamorphose into a second form."
+  },
+  {
+    "id": "3190E07B",
+    "name": "Jumbo Sundrop",
+    "description": "A rare candy that's said to contain the power of the sun. Induces a dramatic metamorphosis in familiars. ",
+    "effect": "Allows a sun-sign familiar to metamorphose into a final form."
+  },
+  {
+    "id": "1ABDB3B8",
+    "name": "Jumbo Stardrop",
+    "description": "A rare candy that's said to contain the power of the stars. Induces a dramatic metamorphosis in familiars. ",
+    "effect": "Allows a star-sign familiar to metamorphose into a final form."
+  },
+  {
+    "id": "03A682F9",
+    "name": "Jumbo Moondrop",
+    "description": "A rare candy that's said to contain the power of the moon. Induces a dramatic metamorphosis in familiars.",
+    "effect": "Allows a moon-sign familiar to metamorphose into a final form."
+  },
+  {
+    "id": "843E9E36",
+    "name": "Jumbo Planetdrop",
+    "description": "A rare candy that's said to contain the power of a planet. Induces a dramatic metamorphosis in familiars.",
+    "effect": "Allows a planet-sign familiar to metamorphose into a final form."
+  },
+  {
+    "id": "131BAC12",
+    "name": "Fling Flame Gem",
+    "description": "A crimson gemstone that contains the crystallized power of a blazing flame.",
+    "effect": "Allows a familiar to learn the Fling Flame trick."
+  },
+  {
+    "id": "3836FFD1",
+    "name": "Firewall Gem",
+    "description": "A crimson gemstone that contains the crystallized power of a blazing flame.",
+    "effect": "Allows a familiar to learn the Firewall trick."
+  },
+  {
+    "id": "212DCE90",
+    "name": "Spire of Fire Gem",
+    "description": "A crimson gemstone that contains the crystallized power of a blazing flame.",
+    "effect": "Allows a familiar to learn the Spire of Fire trick."
+  },
+  {
+    "id": "6E6C5857",
+    "name": "Heat Ray Gem",
+    "description": "A crimson gemstone that contains the crystallized power of a blazing flame.",
+    "effect": "Allows a familiar to learn the Heat Ray trick."
+  },
+  {
+    "id": "01AE03FC",
+    "name": "Water Bomb Gem",
+    "description": "A deep blue gemstone that contains the crystallized power of a crashing wave.",
+    "effect": "Allows a familiar to learn the Water Bomb trick."
+  },
+  {
+    "id": "2A83503F",
+    "name": "Bubble Bath Gem",
+    "description": "A deep blue gemstone that contains the crystallized power of a crashing wave.",
+    "effect": "Allows a familiar to learn the Bubble Bath trick."
+  },
+  {
+    "id": "3398617E",
+    "name": "Snowball Gem",
+    "description": "A deep blue gemstone that contains the crystallized power of a crashing wave.",
+    "effect": "Allows a familiar to learn the Snowball trick."
+  },
+  {
+    "id": "7CD9F7B9",
+    "name": "Snowblower Gem",
+    "description": "A deep blue gemstone that contains the crystallized power of a crashing wave.",
+    "effect": "Allows a familiar to learn the Snowblower trick."
+  },
+  {
+    "id": "B9126499",
+    "name": "Thunderspark Gem",
+    "description": "A pure green gemstone that contains the crystallized power of a roaring thunderstorm.",
+    "effect": "Allows a familiar to learn the Thunderspark trick."
+  },
+  {
+    "id": "923F375A",
+    "name": "Thunderstorm Gem",
+    "description": "A pure green gemstone that contains the crystallized power of a roaring thunderstorm.",
+    "effect": "Allows a familiar to learn the Thunderstorm trick."
+  },
+  {
+    "id": "8B24061B",
+    "name": "Whirligig Gem",
+    "description": "A pure green gemstone that contains the crystallized power of a roaring thunderstorm.",
+    "effect": "Allows a familiar to learn the Whirligig trick."
+  },
+  {
+    "id": "C46590DC",
+    "name": "Whirly Whirlies Gem",
+    "description": "A pure green gemstone that contains the crystallized power of a roaring thunderstorm.",
+    "effect": "Allows a familiar to learn the Whirly Whirlies trick."
+  },
+  {
+    "id": "24C55C20",
+    "name": "Healing Tear Gem",
+    "description": "A gleaming gemstone that contains the crystallized power of a divine light.",
+    "effect": "Allows a familiar to learn the Healing Tear trick."
+  },
+  {
+    "id": "0FE80FE3",
+    "name": "Healing Rain Gem",
+    "description": "A gleaming gemstone that contains the crystallized power of a divine light.",
+    "effect": "Allows a familiar to learn the Healing Rain trick."
+  },
+  {
+    "id": "16F33EA2",
+    "name": "Purifying Pulse Gem",
+    "description": "A gleaming gemstone that contains the crystallized power of a divine light.",
+    "effect": "Allows a familiar to learn the Purifying Pulse trick."
+  },
+  {
+    "id": "59B2A865",
+    "name": "Light Relief Gem",
+    "description": "A gleaming gemstone that contains the crystallized power of a divine light.",
+    "effect": "Allows a familiar to learn the Light Relief trick."
+  },
+  {
+    "id": "9C793B45",
+    "name": "Darkness Beckons Gem",
+    "description": "A sinister gemstone that contains the crystallized power of an impenetrable darkness.",
+    "effect": "Allows a familiar to learn the Darkness Beckons trick."
+  },
+  {
+    "id": "B7546886",
+    "name": "Dark Cloud Gem",
+    "description": "A sinister gemstone that contains the crystallized power of an impenetrable darkness.",
+    "effect": "Allows a familiar to learn the Dark Cloud trick."
+  },
+  {
+    "id": "AE4F59C7",
+    "name": "Drowsy Drops Gem",
+    "description": "A sinister gemstone that contains the crystallized power of an impenetrable darkness.",
+    "effect": "Allows a familiar to learn the Drowsy Drops trick."
+  },
+  {
+    "id": "E10ECF00",
+    "name": "Leech Gem",
+    "description": "A sinister gemstone that contains the crystallized power of an impenetrable darkness.",
+    "effect": "Allows a familiar to learn the Leech trick."
+  },
+  {
+    "id": "8ECC94AB",
+    "name": "Roly-Poly Gem",
+    "description": "An unusually weighty gemstone that contains a mighty destructive force in crystallized form.",
+    "effect": "Allows a familiar to learn the Roly-Poly trick."
+  },
+  {
+    "id": "A5E1C768",
+    "name": "Pebble Pelt Gem",
+    "description": "An unusually weighty gemstone that contains a mighty destructive force in crystallized form.",
+    "effect": "Allows a familiar to learn the Pebble Pelt trick."
+  },
+  {
+    "id": "BCFAF629",
+    "name": "Earsplitter Gem",
+    "description": "An unusually weighty gemstone that contains a mighty destructive force in crystallized form.",
+    "effect": "Allows a familiar to learn the Earsplitter trick."
+  },
+  {
+    "id": "F3BB60EE",
+    "name": "Poison Pinch Gem",
+    "description": "An unusually weighty gemstone that contains a mighty destructive force in crystallized form.",
+    "effect": "Allows a familiar to learn the Poison Pinch trick."
+  },
+  {
+    "id": "3670F3CE",
+    "name": "Blunt Gem",
+    "description": "A colorless gemstone that contains the crystallized form of an elusive power.",
+    "effect": "Allows a familiar to learn the Blunt trick."
+  },
+  {
+    "id": "1D5DA00D",
+    "name": "Slow Poke Gem",
+    "description": "A colorless gemstone that contains the crystallized form of an elusive power.",
+    "effect": "Allows a familiar to learn the Slow Poke trick."
+  },
+  {
+    "id": "0446914C",
+    "name": "Soulshield Gem",
+    "description": "A colorless gemstone that contains the crystallized form of an elusive power.",
+    "effect": "Allows a familiar to learn the Soulshield trick."
+  },
+  {
+    "id": "4B07078B",
+    "name": "Hocus Focus Gem",
+    "description": "A colorless gemstone that contains the crystallized form of an elusive power.",
+    "effect": "Allows a familiar to learn the Hocus Focus trick."
+  },
+  {
+    "id": "521C36CA",
+    "name": "Rise and Shine Gem",
+    "description": "A colorless gemstone that contains the crystallized form of an elusive power.",
+    "effect": "Allows a familiar to learn the Rise and Shine trick."
+  },
+  {
+    "id": "79316509",
+    "name": "Tricksy Nixy Gem",
+    "description": "A colorless gemstone that contains the crystallized form of an elusive power.",
+    "effect": "Allows a familiar to learn the Tricksy Nixy trick."
+  },
+  {
+    "id": "999F2BDE",
+    "name": "Plainswort Flower",
+    "description": "This plant's beautiful orange flowers brighten up the open plains on which they grow.",
+    "effect": ""
+  },
+  {
+    "id": "B2B2781D",
+    "name": "Piece of Supple Leather",
+    "description": "This leather's toughness and smooth surface make it a favored material among craftsmen the world over.",
+    "effect": ""
+  },
+  {
+    "id": "ABA9495C",
+    "name": "Bottle of Springwater",
+    "description": "Clean water from a source hidden deep underground. Packed with minerals, and remarkably tasty.",
+    "effect": ""
+  },
+  {
+    "id": "E4E8DF9B",
+    "name": "Bunch of Booster Shoots",
+    "description": "Herbs that are mainly used to increase potions' efficacy, especially in alchemical medicine making.",
+    "effect": ""
+  },
+  {
+    "id": "FDF3EEDA",
+    "name": "Baneflower",
+    "description": "A flower that contains a highly lethal toxin. Keep apart from poison-be-gones, as they are easily confused.",
+    "effect": ""
+  },
+  {
+    "id": "D6DEBD19",
+    "name": "Glowcap",
+    "description": "A mystifying mushroom that emits a faint crimson glow. Though edible, its flavor leaves a lot to be desired.",
+    "effect": ""
+  },
+  {
+    "id": "CFC58C58",
+    "name": "Piece of Shadowglass",
+    "description": "So black it seems to radiate darkness, this extremely hard glass can be used to make deadly sharp blades.",
+    "effect": ""
+  },
+  {
+    "id": "485D9097",
+    "name": "Emberstone",
+    "description": "A red jewel that appears to contain an eternal flame, though some say it's just an optical illusion.",
+    "effect": ""
+  },
+  {
+    "id": "5146A1D6",
+    "name": "Bundle of Slumbernot Leaves",
+    "description": "Herbs with an invigorating aroma that rouses one from sleep. Slumbernot bushes are easy to grow at home.",
+    "effect": ""
+  },
+  {
+    "id": "814670A8",
+    "name": "Rings-a-Bell",
+    "description": "The pollen of this flower emits a faint glow during the hours of darkness, conjuring warm recollections.",
+    "effect": ""
+  },
+  {
+    "id": "985D41E9",
+    "name": "Wetstone",
+    "description": "This stone's permanent wetness means that it must be stored separately from other materials.",
+    "effect": ""
+  },
+  {
+    "id": "B370122A",
+    "name": "Sturdy Shinbone",
+    "description": "A very robust bone. The identity of the animal from which it was taken remains a mystery.",
+    "effect": ""
+  },
+  {
+    "id": "AA6B236B",
+    "name": "Gnomebeard",
+    "description": "A delicate plant notable for its soft, downy leaves and fluffy white flowers.\n",
+    "effect": ""
+  },
+  {
+    "id": "E52AB5AC",
+    "name": "Angula",
+    "description": "This flower's shape gives the impression that it is stiff and rigid, but it is in fact soft and delicate.",
+    "effect": ""
+  },
+  {
+    "id": "FC3184ED",
+    "name": "Sprocket",
+    "description": "A poor-quality, rusted iron cog which presumably once formed a part of some sort of machine.",
+    "effect": ""
+  },
+  {
+    "id": "D71CD72E",
+    "name": "Lump of Raw Steel",
+    "description": "Very strong steel, said to be impervious to rust. Often used in alchemy to create weapons and armor.",
+    "effect": ""
+  },
+  {
+    "id": "CE07E66F",
+    "name": "Rumblenut",
+    "description": "A hard nut with a curious pattern on its shell. Shaking it produces a surprisingly loud rumbling sound.",
+    "effect": ""
+  },
+  {
+    "id": "499FFAA0",
+    "name": "Drill Screw",
+    "description": "An innovative screw that does not require a hole to be bored before use. They are not yet widely available.",
+    "effect": ""
+  },
+  {
+    "id": "5084CBE1",
+    "name": "Bass Bell",
+    "description": "Despite its size, this bell produces a very deep pitch when struck, reverberating deep within one's heart.",
+    "effect": ""
+  },
+  {
+    "id": "8300CEF1",
+    "name": "Fogdrop",
+    "description": "A flower whose pollen is emitted in clouds of cold mist. Receiving one as a gift is said to be very bad luck.",
+    "effect": ""
+  },
+  {
+    "id": "9A1BFFB0",
+    "name": "Jade Marble",
+    "description": "A large, opaque marble, made of pure jade. Often used as a decorative material.",
+    "effect": ""
+  },
+  {
+    "id": "B136AC73",
+    "name": "Gustplume",
+    "description": "An elegant feather with a smooth, streamlined shape. Generally used as a form of decoration.",
+    "effect": ""
+  },
+  {
+    "id": "A82D9D32",
+    "name": "Blizzard Bloom",
+    "description": "An icy flower that's always cold to the touch. It can only be grown in very cold climates.",
+    "effect": ""
+  },
+  {
+    "id": "E76C0BF5",
+    "name": "Piece of Tealwood",
+    "description": "A fragrant wood that's a common ingredient in high-class perfumes.\n",
+    "effect": ""
+  },
+  {
+    "id": "FE773AB4",
+    "name": "Snowflake",
+    "description": "A perfectly formed, pure-white snowflake that will not melt when held in the hand.",
+    "effect": ""
+  },
+  {
+    "id": "D55A6977",
+    "name": "Coldstone",
+    "description": "A slab of silver-colored ore, often used to keep things cool when ice is unavailable.",
+    "effect": ""
+  },
+  {
+    "id": "CC415836",
+    "name": "Drakestone",
+    "description": "A fossil of a dragon, bright red in color and still retaining a searing heat that makes it difficult to carry around.",
+    "effect": ""
+  },
+  {
+    "id": "4BD944F9",
+    "name": "Iron Diamond",
+    "description": "A piece of metal that forms a perfect diamond shape. Its dull glow is uniquely captivating.",
+    "effect": ""
+  },
+  {
+    "id": "52C275B8",
+    "name": "Bunch of Sour Grapes",
+    "description": "A rare variety of grape, prized for its pale purple color and refreshingly bittersweet taste.",
+    "effect": ""
+  },
+  {
+    "id": "82C2A4C6",
+    "name": "Powerstone",
+    "description": "A stone marked with an ancient magical seal. It is used in alchemy to make weapons even more destructive.",
+    "effect": ""
+  },
+  {
+    "id": "9BD99587",
+    "name": "Bubble Pipe",
+    "description": "Blowing bubbles through this pipe helps focus one's mind and allows for deep contemplation.",
+    "effect": ""
+  },
+  {
+    "id": "B0F4C644",
+    "name": "Tachestone",
+    "description": "A stone shaped like a moustache. Each one stores the memories and experiences of a living being.",
+    "effect": ""
+  },
+  {
+    "id": "A9EFF705",
+    "name": "Handful of Crownberries",
+    "description": "Beautiful, brightly colored berries that are ripe and ready to eat. Plump, flavorsome, and fit for a king.",
+    "effect": ""
+  },
+  {
+    "id": "E6AE61C2",
+    "name": "Big Babana",
+    "description": "This \"king of babanas\" has been overripened until red, and is extremely satisfying to peel open and eat.",
+    "effect": ""
+  },
+  {
+    "id": "FFB55083",
+    "name": "Meteorite Fragment",
+    "description": "A glowing stone that fell suddenly from the sky. It comprises minerals that cannot be found elsewhere.",
+    "effect": ""
+  },
+  {
+    "id": "D4980340",
+    "name": "Blowpipe",
+    "description": "Believed to have been invented by an ancient wizard, these pipes are used to blow one's worries away.",
+    "effect": ""
+  },
+  {
+    "id": "CD833201",
+    "name": "Star Pearl",
+    "description": "A pink pearl whose five points make it look like a star. It is curiously warm to the touch.",
+    "effect": ""
+  },
+  {
+    "id": "4A1B2ECE",
+    "name": "Pair of Black Wings",
+    "description": "The wings of a bird that resides in total darkness. They take on a life of their own when exposed to a breeze.",
+    "effect": ""
+  },
+  {
+    "id": "53001F8F",
+    "name": "Bunch of Old Oak Leaves",
+    "description": "Large, soft leaves shed by Old Father Oak himself. Their numerous nutrients make them a popular medicinal ingredient.",
+    "effect": ""
+  },
+  {
+    "id": "878DB243",
+    "name": "Ritestone",
+    "description": "A tablet carved from a magical stone, once used in ancient rituals.",
+    "effect": ""
+  },
+  {
+    "id": "9E968302",
+    "name": "Handful of Seeds of Discord",
+    "description": "Countless wars have been fought over these seeds and their golden flowers.",
+    "effect": ""
+  },
+  {
+    "id": "B5BBD0C1",
+    "name": "All-Seeing Eye",
+    "description": "A flawless, perfectly transparent gemstone, carved into the shape of an iris.",
+    "effect": ""
+  },
+  {
+    "id": "ACA0E180",
+    "name": "Kaleidostone",
+    "description": "The elegant fossil of an ancient sea creature. It produces a dazzling array of colors when exposed to light. ",
+    "effect": ""
+  },
+  {
+    "id": "E3E17747",
+    "name": "Clump of Troll's Tears",
+    "description": "These tiny stones are generally found clinging to large boulders. Their name derives from their deep blue color.",
+    "effect": ""
+  },
+  {
+    "id": "FAFA4606",
+    "name": "Glowstone",
+    "description": "A stone that emits a pale glow, reminiscent of the moon. Popularly carried as a good luck charm.",
+    "effect": ""
+  },
+  {
+    "id": "D1D715C5",
+    "name": "Pair of Angel's Wings",
+    "description": "These angelic wings emit a pure light that is believed to be inextinguishable.",
+    "effect": ""
+  },
+  {
+    "id": "C8CC2484",
+    "name": "Evil Eye",
+    "description": "A spherical red jewel said to contain the soul of a demon. It is both fascinating and unsettling to look upon.",
+    "effect": ""
+  },
+  {
+    "id": "4F54384B",
+    "name": "Scroll of Truth",
+    "description": "All the world's knowledge is said to be inscribed on these scrolls. Sadly, they are sealed and cannot be opened.",
+    "effect": ""
+  },
+  {
+    "id": "564F090A",
+    "name": "Jar of Bumbler Honey",
+    "description": "Natural honey produced by the bumbler. Much-loved for its fragrance and intensely sweet taste.",
+    "effect": ""
+  },
+  {
+    "id": "864FD874",
+    "name": "Dumpty Egg",
+    "description": "A fresh, spherical egg that's jam-packed with nutrients. An important part of any hearty breakfast.",
+    "effect": ""
+  },
+  {
+    "id": "9F54E935",
+    "name": "Head of Crispy Lettuce",
+    "description": "A crispy salad vegetable, its texture helps add bite to a whole range of dishes.",
+    "effect": ""
+  },
+  {
+    "id": "B479BAF6",
+    "name": "Crunchy Carrot",
+    "description": "A sweet, succulent carrot. Delicious when eaten raw, these can also be used to make treats for familiars.",
+    "effect": ""
+  },
+  {
+    "id": "D0157FF2",
+    "name": "Bowl of Yogurt",
+    "description": "Fresh yogurt, made from high-quality milk. It has a creamy texture and a taste that's not too sour.",
+    "effect": ""
+  },
+  {
+    "id": "AD628BB7",
+    "name": "Hunk of Tender Beef",
+    "description": "A popular cut of meat that simply melts in the mouth. This versatile ingredient will never let you down.",
+    "effect": ""
+  },
+  {
+    "id": "E2231D70",
+    "name": "Bunch of Babanas",
+    "description": "Al Mamoon's famous local delicacy. Babanas have a rich, sweet taste that makes them perennially popular.",
+    "effect": ""
+  },
+  {
+    "id": "FB382C31",
+    "name": "Bottle of Creamy Milk",
+    "description": "Thick milk with a wonderful farm-fresh flavor. It is used as an ingredient in a wide variety of dishes.",
+    "effect": ""
+  },
+  {
+    "id": "C90E4EB3",
+    "name": "Plate of Fluffy Rice",
+    "description": "A gleaming bowl of cooked white rice. The perfect accompaniment for dishes with intense flavors.",
+    "effect": ""
+  },
+  {
+    "id": "4E96527C",
+    "name": "Dumbflounder",
+    "description": "A fish well-known for its surprised expression. Its savory smell and lack of bones seem to invite cooking.",
+    "effect": ""
+  },
+  {
+    "id": "578D633D",
+    "name": "Glowshrimp",
+    "description": "A shellfish whose faint glow makes it easy to catch. Though naturally blue, they turn red when cooked.",
+    "effect": ""
+  },
+  {
+    "id": "D253C1AB",
+    "name": "Bunch of Green Grapes",
+    "description": "The bunches of this succulent fruit look like clusters of glistening gems. Of course, gems don't smell as nice.",
+    "effect": ""
+  },
+  {
+    "id": "CB48F0EA",
+    "name": "Black Truffle",
+    "description": "These \"black diamonds\" are the snack of choice for aristocrats everywhere.",
+    "effect": ""
+  },
+  {
+    "id": "4CD0EC25",
+    "name": "Handful of Caramels",
+    "description": "Smooth caramel that makes for a perfect sweet treat. Its mild flavor suits every palate.",
+    "effect": ""
+  },
+  {
+    "id": "55CBDD64",
+    "name": "Snow Radish",
+    "description": "An enormous variety of radish, known for its dazzling white color and satisfying, crunchy texture.",
+    "effect": ""
+  },
+  {
+    "id": "85CB0C1A",
+    "name": "Sun Crystal",
+    "description": "A crystal said to contain the power of the sun. It is noticeably warm to the touch.",
+    "effect": ""
+  },
+  {
+    "id": "9CD03D5B",
+    "name": "Star Crystal",
+    "description": "A crystal said to contain the power of the stars. It shines intermittently during the night.",
+    "effect": ""
+  },
+  {
+    "id": "B7FD6E98",
+    "name": "Moon Crystal",
+    "description": "A crystal said to contain the power of the moon. It gives off a pale light that turns its surroundings silver.",
+    "effect": ""
+  },
+  {
+    "id": "AEE65FD9",
+    "name": "Planet Crystal",
+    "description": "A crystal said to contain the power of a planet. Its gleaming ring makes it easily distinguishable.",
+    "effect": ""
+  },
+  {
+    "id": "49526F86",
+    "name": "Old Stick",
+    "description": "A twig found near Oliver's house. Faint symbols adorn its surface:\n[nz_e][nz_p][nz_o][nz_h][nz_g][nz_n][nz_i][nz_r][nz_b].",
+    "effect": ""
+  },
+  {
+    "id": "3E555F10",
+    "name": "Old Stick",
+    "description": "A twig found near Oliver's house. Faint symbols adorn its surface:\n[nz_e][nz_p][nz_o][nz_h][nz_g][nz_n][nz_i][nz_r][nz_b].",
+    "effect": ""
+  },
+  {
+    "id": "7B640D04",
+    "name": "Magic Wand",
+    "description": "Though comparatively easy to use, a wand like this will only come to life in the hands of a true wizard.",
+    "effect": ""
+  },
+  {
+    "id": "627F3C45",
+    "name": "Mornstar",
+    "description": "Very few wizards have the aptitude and attitude required to wield this legendary wand.",
+    "effect": ""
+  },
+  {
+    "id": "1BA384E1",
+    "name": "Mornstar",
+    "description": "The legendary wand has been restored to its full might, granting its owner incredible magical power.\n",
+    "effect": ""
+  },
+  {
+    "id": "55A1CC77",
+    "name": "Imperial Scepter",
+    "description": "A powerful wand that has belonged to the royal family of Hamelin for countless generations.\n",
+    "effect": ""
+  },
+  {
+    "id": "50495EC7",
+    "name": "Astra",
+    "description": "A wand that contains a wizard's soul, entrusted to Oliver so that he might save Cassiopeia from her fate.",
+    "effect": ""
+  },
+  {
+    "id": "0613F941",
+    "name": "Sky Tree Wand",
+    "description": "A holy wand, carved from the branch of an ancient tree whose flowers bloom in three different colors.\n",
+    "effect": ""
+  },
+  {
+    "id": "70CA93AB",
+    "name": "Timeworn Harp",
+    "description": "Esther's harp. Though it has seen a lot of use, it is still capable of producing a truly beautiful sound.",
+    "effect": ""
+  },
+  {
+    "id": "5BE7C068",
+    "name": "Heart-Winning Harp",
+    "description": "A harp fashioned by a playful spirit. Hearing its song is enough to soothe the hearts of wild beasts.",
+    "effect": ""
+  },
+  {
+    "id": "42FCF129",
+    "name": "Herald's Harp",
+    "description": "A harp that's as light as a single feather from an angel's wing. Its voice floats up to the very heavens.",
+    "effect": ""
+  },
+  {
+    "id": "0DBD67EE",
+    "name": "Muse's Harp",
+    "description": "A legendary harp, said to have been used by a goddess who could communicate with all living creatures.",
+    "effect": ""
+  },
+  {
+    "id": "14A656AF",
+    "name": "Bard's Harp",
+    "description": "A harp passed down through generations of comedians. Its sound is sure to bring a smile to your face.",
+    "effect": ""
+  },
+  {
+    "id": "C876F4CE",
+    "name": "Pickpocket's Pistol",
+    "description": "The wire fired by this gun can be used to pick the locks of distant treasure chests.",
+    "effect": ""
+  },
+  {
+    "id": "E35BA70D",
+    "name": "Rogue's Revolver",
+    "description": "A gun that shoots several wires at once, making it possible to pick even more complicated locks.",
+    "effect": ""
+  },
+  {
+    "id": "FA40964C",
+    "name": "Highwayman's Handgun",
+    "description": "A gun made using the latest Hamelin technology. It takes experience to get the most from its complex design.",
+    "effect": ""
+  },
+  {
+    "id": "B501008B",
+    "name": "Cad's Cannon",
+    "description": "Believed to have once been used by a legendary thief, the lock that this gun cannot pick has yet to be designed.",
+    "effect": ""
+  },
+  {
+    "id": "AC1A31CA",
+    "name": "Masterthief's Magnum",
+    "description": "A gun that's shrouded in mystery. Indeed, there is some debate as to whether it exists at all.",
+    "effect": ""
+  },
+  {
+    "id": "E8F5B5D9",
+    "name": "Oliver's Clothes",
+    "description": "Oliver's favorite outfit, combining a yellow sweater and a comfortable pair of blue pants.",
+    "effect": ""
+  },
+  {
+    "id": "EE3E7732",
+    "name": "Set of Traveler's Clothes",
+    "description": "A special set of clothes made from the woven fibers of the Sky Tree. Said to bring travelers good fortune.",
+    "effect": ""
+  },
+  {
+    "id": "E6E6E461",
+    "name": "Bathing Suit",
+    "description": "A swimsuit provided by the Governor of Castaway Cove. It doesn't fare at all badly in the fashion stakes.",
+    "effect": ""
+  },
+  {
+    "id": "E7248E56",
+    "name": "Suit of Hamelin Armor",
+    "description": "The standard uniform of the Hamelin grunt, known for its generous waistband and pig-shaped helmet.",
+    "effect": ""
+  },
+  {
+    "id": "D4D086E3",
+    "name": "Set of Winter Clothes",
+    "description": "Indispensable when in the Winter Isles, these garments keep one warm in even the most unrelenting snowstorm.",
+    "effect": ""
+  },
+  {
+    "id": "FC8BD8DC",
+    "name": "Esther's Clothes",
+    "description": "A popular outfit among the young women of Al Mamoon, allowing for freedom of movement when dancing.",
+    "effect": ""
+  },
+  {
+    "id": "F4534B8F",
+    "name": "Bathing Suit",
+    "description": "A swimsuit whose color puts one in mind of the ocean. Its light skirt flutters gently in the sea breeze.",
+    "effect": ""
+  },
+  {
+    "id": "F59121B8",
+    "name": "Suit of Hamelin Armor",
+    "description": "Made especially for female soldiers, this armor retains a certain elegance despite its ghastly expression.",
+    "effect": ""
+  },
+  {
+    "id": "C665290D",
+    "name": "Set of Winter Clothes",
+    "description": "A winter coat decorated with pom-poms that are believed to be tokens of affection in the tomte community.",
+    "effect": ""
+  },
+  {
+    "id": "4437BFB9",
+    "name": "Shabby Coat",
+    "description": "A well-worn garment that's full of\nholes. Or a \"distressed\" piece of\n\"vintage fashion,\" if you prefer.",
+    "effect": ""
+  },
+  {
+    "id": "4CEF2CEA",
+    "name": "Bathing Suit",
+    "description": "An outfit that's perfect for sunbathing—provided the wearer doesn't desire anything approaching a tan.",
+    "effect": ""
+  },
+  {
+    "id": "4D2D46DD",
+    "name": "Suit of Hamelin Armor",
+    "description": "A large suit of armor capable of making even the scrawniest fellow look like a fearsome warrior.",
+    "effect": ""
+  },
+  {
+    "id": "7ED94E68",
+    "name": "Set of Winter Clothes",
+    "description": "The traditional costume of Yule, embroidered with a pattern that's designed to ward off evil magic.",
+    "effect": ""
+  },
+  {
+    "id": "D9E08700",
+    "name": "Fairy Suit",
+    "description": "A basic fairy costume, woven using magic fibers that are guaranteed to provide a comfortable fit at all times.",
+    "effect": ""
+  },
+  {
+    "id": "D1381453",
+    "name": "Bathing Suit",
+    "description": "Trunks made from special waterproof fibers that allow even the most incompetent swimmer to stay afloat.",
+    "effect": ""
+  },
+  {
+    "id": "D0FA7E64",
+    "name": "Suit of Hamelin Armor",
+    "description": "A Hamelin grunt's helmet, used to cover the entire body. Makes one look very silly when walking.",
+    "effect": ""
+  },
+  {
+    "id": "E30E76D1",
+    "name": "Furry Suit",
+    "description": "A snugly fitting fairy costume with fluffy white trim. Makes any fairy look right at home in the snow!",
+    "effect": ""
+  },
+  {
+    "id": "615CE065",
+    "name": "Set of Regal Attire",
+    "description": "A royal robe, lovingly woven from only the finest threads by the most accomplished tailor in all of Hamelin.",
+    "effect": ""
+  },
+  {
+    "id": "69847336",
+    "name": "Bathing Raiment",
+    "description": "High-quality Hamelin-made swimwear that provides comfort, elegance, and exemplary ventilation.",
+    "effect": ""
+  },
+  {
+    "id": "5BB211B4",
+    "name": "Set of Winter Vestments",
+    "description": "The kind of warm garments worn in the Winter Isles. Despite their plain design, they are clearly well made.",
+    "effect": ""
+  },
+  {
+    "id": "A21B4DB1",
+    "name": "Wooden Sword",
+    "description": "A rather blunt sword, made of wood. More likely to give your enemies bruises than cuts.",
+    "effect": ""
+  },
+  {
+    "id": "BB007CF0",
+    "name": "Well-Worn Sword",
+    "description": "A basic sword, commonly sold in Ding Dong Dell. A sharp and easy-to-use weapon at a reasonable price.",
+    "effect": ""
+  },
+  {
+    "id": "902D2F33",
+    "name": "Bone Sword",
+    "description": "A sword made from a large piece of bone. Not as sharp as metal weapons, perhaps, but considerably lighter.",
+    "effect": ""
+  },
+  {
+    "id": "DF6CB9F4",
+    "name": "Burning Blade",
+    "description": "A sword that leaves trails of flame in the air when swung. Care must be taken not to burn oneself during use.",
+    "effect": "Element: [atk_fire]"
+  },
+  {
+    "id": "ED5ADB76",
+    "name": "Roc Feather",
+    "description": "A large sword, made from several feather-like blades. A single slash brings a terrifying storm in its wake.",
+    "effect": "Element: [atk_storm]"
+  },
+  {
+    "id": "89361E72",
+    "name": "Soldier's Sword",
+    "description": "The basic weapon of the Hamelin grunt, with a blade that boasts rather impressive sharpness.",
+    "effect": ""
+  },
+  {
+    "id": "6AC2C7B9",
+    "name": "Clockwork Cleaver",
+    "description": "The blade of this ingenious weapon contains a spinning cog that shreds anything it touches.",
+    "effect": ""
+  },
+  {
+    "id": "A3D92786",
+    "name": "Black Blade",
+    "description": "A jet-black sword that absorbs light and simultaneously darkens the wielder's mood.",
+    "effect": ""
+  },
+  {
+    "id": "C67788B5",
+    "name": "Pirate's Cutlass",
+    "description": "An intimidating weapon, beloved by pirates. The curved blade causes its victims untold agony.",
+    "effect": ""
+  },
+  {
+    "id": "BAC216C7",
+    "name": "Hero's Sword",
+    "description": "A sword imbued with the power of a soldier once lauded as his kingdom's savior.",
+    "effect": ""
+  },
+  {
+    "id": "91EF4504",
+    "name": "Bluster Blade",
+    "description": "A magical sword, engraved with runes that allow it to turn the mildest breeze into a fierce whirlwind.",
+    "effect": "Element: [atk_storm]"
+  },
+  {
+    "id": "73D9F6F8",
+    "name": "Champion's Sword",
+    "description": "A replica of a sword from ancient legends. Wielding it requires one to have faith in its power.",
+    "effect": ""
+  },
+  {
+    "id": "C7B5E282",
+    "name": "Blazing Blade",
+    "description": "Hellish flames dance upon the blade of this magical sword, allowing it to sear that which it slashes.",
+    "effect": "Element: [atk_fire]"
+  },
+  {
+    "id": "88F47445",
+    "name": "Greatsword",
+    "description": "A sword that was once used by a warrior who lived only to fight. It is almost unreasonably large and heavy.",
+    "effect": ""
+  },
+  {
+    "id": "F5838000",
+    "name": "Lost Sword",
+    "description": "A weapon that decided the outcome of an ancient war. Its power is still discernible through its coating of rust.",
+    "effect": ""
+  },
+  {
+    "id": "6B00AD8E",
+    "name": "Radiant Blade",
+    "description": "This sword shines brightly in the hands of the pure-hearted, allowing them to unleash their full potential.",
+    "effect": "Restores HP when it damages an enemy."
+  },
+  {
+    "id": "EC98B141",
+    "name": "Sainted Sword",
+    "description": "A holy blade that always swings true, never missing its target. It is very effective at striking enemy weak spots.",
+    "effect": ""
+  },
+  {
+    "id": "DEAED3C3",
+    "name": "Night Blade",
+    "description": "A sword imbued with dark magic. Even as it drains its victim's ambition, it envelops the wielder in inky gloom.",
+    "effect": "Damages the wielder as well as the enemy."
+  },
+  {
+    "id": "721B9CCF",
+    "name": "Skyfall Sword",
+    "description": "Carved from a piece of rock that fell from the heavens, this sword contains metals not found in this world.",
+    "effect": ""
+  },
+  {
+    "id": "A19F99DF",
+    "name": "Celestial Sword",
+    "description": "A sword that draws its considerable power from the stars themselves, thus becoming even sharper at night.",
+    "effect": ""
+  },
+  {
+    "id": "93A9FB5D",
+    "name": "Nazcaän Longsword",
+    "description": "Only chosen Nazcaän soldiers were allowed to use this blade. It is said to fill its wielder's heart with courage.",
+    "effect": ""
+  },
+  {
+    "id": "B884A89E",
+    "name": "Primordial Sword",
+    "description": "A sword that was thought only to exist in legends. It is said to have been used in the creation of all things.",
+    "effect": ""
+  },
+  {
+    "id": "8AB2CA1C",
+    "name": "Soppy Slapstick",
+    "description": "This legendary fairy comedian's slapstick would be worth an absolute fortune...if it wasn't a replica.",
+    "effect": "Occasionally stuns an enemy."
+  },
+  {
+    "id": "B0AEE25F",
+    "name": "Kitchen Knife",
+    "description": "A small blade that does a good job of culinary chopping. Reasonably priced and useful during battle.",
+    "effect": ""
+  },
+  {
+    "id": "829880DD",
+    "name": "Flint Dagger",
+    "description": "An old-fashioned knife, carved from a piece of rock. Its blunt blade makes it a rather ineffective weapon.",
+    "effect": ""
+  },
+  {
+    "id": "9B83B19C",
+    "name": "Sickle",
+    "description": "A dagger with a viciously curved blade that can cut deeply into enemy flesh.",
+    "effect": ""
+  },
+  {
+    "id": "A9B5D31E",
+    "name": "Candle Cutter",
+    "description": "This blade has a flame-shaped tip that is constantly ablaze with magical fire.",
+    "effect": "Element: [atk_fire]"
+  },
+  {
+    "id": "D4C2275B",
+    "name": "Shadowglass Knife",
+    "description": "An uneven blade, carved from a piece of jet-black stone, and designed to inflict agonizing wounds.",
+    "effect": ""
+  },
+  {
+    "id": "CDD9161A",
+    "name": "Sacred Dagger",
+    "description": "A decorative dagger, mostly used for ceremonial purposes. Its holy nature means it is to be treated with care.",
+    "effect": "Occasionally nixes an enemy."
+  },
+  {
+    "id": "FFEF7498",
+    "name": "Witch's Thorn",
+    "description": "One blow from this dagger's needle-like tip is often enough to render an enemy unconscious.",
+    "effect": "Occasionally knocks an enemy out."
+  },
+  {
+    "id": "E6F445D9",
+    "name": "Divine Dagger",
+    "description": "A dagger that confers divine protection upon its wielder. A definite advantage in battle.",
+    "effect": ""
+  },
+  {
+    "id": "835AEAEA",
+    "name": "Kiss of Death",
+    "description": "A knife that is drawn to a victim's weak spots. A single blow can leave an enemy unconscious.",
+    "effect": "Occasionally knocks an enemy out."
+  },
+  {
+    "id": "B16C8868",
+    "name": "Woodsman's Knife",
+    "description": "A dagger that makes ingenious use of an animal fang to enhance the attacking power of its wielder.",
+    "effect": ""
+  },
+  {
+    "id": "A877B929",
+    "name": "Ice Shard",
+    "description": "A blade carved from ice that will never melt. Its cooling effect is known to be an aid to clear thinking.",
+    "effect": "Element: [atk_water]"
+  },
+  {
+    "id": "9A41DBAB",
+    "name": "Flitwing",
+    "description": "A blade that moves faster than the speed of sound, allowing it to strike a victim before they can hear it coming.",
+    "effect": "Element: [atk_storm]"
+  },
+  {
+    "id": "D5004D6C",
+    "name": "Sorcerer's Soul",
+    "description": "A dazzling dagger, made from pure crystallized light and said to have been crafted by a venerable wizard.",
+    "effect": ""
+  },
+  {
+    "id": "CC1B7C2D",
+    "name": "Planet Splitter",
+    "description": "The infinite power of the universe resides within this blade, which slices through the air at the speed of light.",
+    "effect": ""
+  },
+  {
+    "id": "0812853A",
+    "name": "Spiral Horn",
+    "description": "This animal horn has a distinctive spiral shape that makes it a somewhat tricky weapon to use effectively.",
+    "effect": ""
+  },
+  {
+    "id": "233FD6F9",
+    "name": "Whalefish Tusk",
+    "description": "The horn of an ancient sea creature that could command the waves, costing many a sailor his life.",
+    "effect": "Element: [atk_water]"
+  },
+  {
+    "id": "3A24E7B8",
+    "name": "Poisoner's Horn",
+    "description": "A horn that contains an extremely potent poison. Be sure to wear gloves when wielding this weapon.",
+    "effect": "Occasionally poisons an enemy."
+  },
+  {
+    "id": "6C7E403E",
+    "name": "Dragon Tusk",
+    "description": "A dragon fossil carved into the shape of a tusk. The sound of a strong wind can be heard coming from within.",
+    "effect": ""
+  },
+  {
+    "id": "1109B47B",
+    "name": "Beetle's Horn",
+    "description": "A large horn that forks at the tip. The animal from which it was taken is unknown.",
+    "effect": ""
+  },
+  {
+    "id": "5E4822BC",
+    "name": "Icewyrm Tusk",
+    "description": "This horn is far too cold to touch with bare hands. Gloves are recommended for those who wish to wield it.",
+    "effect": ""
+  },
+  {
+    "id": "7565717F",
+    "name": "Lazy Bone",
+    "description": "A horn covered in an intricate and beautiful pattern that's known to induce sleep in those who gaze at it.",
+    "effect": "Occasionally puts an enemy to sleep."
+  },
+  {
+    "id": "475313FD",
+    "name": "White Stag's Antler",
+    "description": "The antler of a legendary white stag. It is said to inspire its wielder to perform feats of heroism.",
+    "effect": ""
+  },
+  {
+    "id": "2D79DAE6",
+    "name": "Woodcutter's Ax",
+    "description": "Though this simple ax was designed to chop firewood, it is nevertheless an effective weapon on the battlefield.",
+    "effect": ""
+  },
+  {
+    "id": "3462EBA7",
+    "name": "Iron Ax",
+    "description": "A sturdy ax with a chunky iron head that allows for wild swinging.",
+    "effect": ""
+  },
+  {
+    "id": "49151FE2",
+    "name": "Watchmaker's Ax",
+    "description": "This ax's blade is fine enough to cut watch cogs, and can cleave living flesh with frightening ease.",
+    "effect": ""
+  },
+  {
+    "id": "06548925",
+    "name": "Guardsman's Ax",
+    "description": "The favored ax of Hamelin grunts. Made using the latest techniques, it is strong, light and affordable.",
+    "effect": ""
+  },
+  {
+    "id": "62384C21",
+    "name": "Clockwork Ax",
+    "description": "An ax whose head consists of a spinning cog that mangles anything unfortunate enough to be caught in it.",
+    "effect": ""
+  },
+  {
+    "id": "E5A050EE",
+    "name": "Grand Ax",
+    "description": "A heavy double-handed ax whose design is simple, yet effective. Though mass-produced, they are not cheap.",
+    "effect": "Occasionally stuns an enemy."
+  },
+  {
+    "id": "FCBB61AF",
+    "name": "Giant's Ax",
+    "description": "An ax that was once used by a legendary giant to topple an entire regiment of soldiers with one blow.",
+    "effect": ""
+  },
+  {
+    "id": "2CBBB0D1",
+    "name": "Demon's Ax",
+    "description": "An ancient ax, believed to have claimed the lives of countless brave warriors, and widely feared.",
+    "effect": "Occasionally curses an enemy."
+  },
+  {
+    "id": "35A08190",
+    "name": "War God's Ax",
+    "description": "A solid gold ax, once wielded by a warlike deity. It sunders stone as if it were air.",
+    "effect": ""
+  },
+  {
+    "id": "1F4FB864",
+    "name": "Ogre King's Ax",
+    "description": "A giant ax that once belonged to a fearsome ogre. Simply holding it gives the wielder a sense of its power.",
+    "effect": ""
+  },
+  {
+    "id": "3FCC7508",
+    "name": "Wooden Mallet",
+    "description": "A hammer made from a piece of solid wood. It cannot compete with metal weapons when it comes to power.",
+    "effect": ""
+  },
+  {
+    "id": "26D74449",
+    "name": "Massive Mallet",
+    "description": "A hammer built according to the simple idea that bigger is better. Its sheer size is rather reassuring.",
+    "effect": ""
+  },
+  {
+    "id": "0DFA178A",
+    "name": "Tower Toppler",
+    "description": "Despite its weight, this ingeniously designed hammer requires next to no strength to wield.",
+    "effect": ""
+  },
+  {
+    "id": "14E126CB",
+    "name": "Hammer of Justice",
+    "description": "The hammer of a knight who fought only to protect others. It is said to inspire kindness in the wielder.",
+    "effect": ""
+  },
+  {
+    "id": "5BA0B00C",
+    "name": "Tomte Whomper",
+    "description": "A leather-covered lump of ice, attached to the end of a stick. A chill wind blows from within it as it strikes.",
+    "effect": "Element: [atk_water]"
+  },
+  {
+    "id": "42BB814D",
+    "name": "Ninnyhammer",
+    "description": "A hammer that makes a funny sound upon impact, leaving enemies seeing stars and thoroughly confused.",
+    "effect": "Occasionally confuses an enemy."
+  },
+  {
+    "id": "6996D28E",
+    "name": "Steam Hammer",
+    "description": "A hammer with a steam-powered booster that ensures it swings true, making it easier to strike enemies.",
+    "effect": ""
+  },
+  {
+    "id": "708DE3CF",
+    "name": "Meteor Mallet",
+    "description": "An enormous and hugely destructive hammer. It strikes with the power of a falling star.",
+    "effect": ""
+  },
+  {
+    "id": "F715FF00",
+    "name": "Mom's Favorite Pan",
+    "description": "Many a hearty breakfast has been cooked in this sturdy pan, much loved by a certain Motorville mother.",
+    "effect": "Restores HP when it damages an enemy."
+  },
+  {
+    "id": "8770126D",
+    "name": "Sharpened Stick",
+    "description": "A rudimentary spear, carved from a long piece of wood and sometimes used to prop up clotheslines.",
+    "effect": ""
+  },
+  {
+    "id": "E31CD769",
+    "name": "Hoarfrost Harpoon",
+    "description": "A spear with a tip made from semi-transparent ice that is destined never to melt.",
+    "effect": "Element: [atk_water]"
+  },
+  {
+    "id": "9E6B232C",
+    "name": "Flint Spear",
+    "description": "Though this spear's head is made from sturdy sharpened stone, the shaft is surprisingly flimsy.",
+    "effect": ""
+  },
+  {
+    "id": "B54670EF",
+    "name": "Pig-Iron Pike",
+    "description": "A long iron spear that will last a lifetime, as long as it is maintained properly and prevented from rusting.",
+    "effect": ""
+  },
+  {
+    "id": "D12AB5EB",
+    "name": "Gale Spear",
+    "description": "A spear whose finely sculpted head is said to have the power to summon mighty whirlwinds.",
+    "effect": "Element: [atk_storm]"
+  },
+  {
+    "id": "4FA99865",
+    "name": "Dryad's Spear",
+    "description": "A large spear, carved from the branch of a spirit tree and said to be imbued with its power.",
+    "effect": "Restores HP when it damages an enemy."
+  },
+  {
+    "id": "AC5D41AE",
+    "name": "Soldier's Spear",
+    "description": "The basic spear of the Hamelin grunt. Its design means that anyone can wield it with ease.",
+    "effect": ""
+  },
+  {
+    "id": "FA07E628",
+    "name": "Lightning Bolt",
+    "description": "A slender spear, imbued with the power of a raging storm. Thunder clouds gather when its tip is raised.",
+    "effect": "Element: [atk_storm]"
+  },
+  {
+    "id": "56B2A924",
+    "name": "Royal Spear",
+    "description": "A spear whose elegance is immediately apparent. In times gone by, it was the sole preserve of royalty.",
+    "effect": ""
+  },
+  {
+    "id": "86B2785A",
+    "name": "Bee Sting",
+    "description": "A sinister spear with a tip that contains lethal poison, and a garish design that intimidates one's enemies.",
+    "effect": "Occasionally poisons an enemy."
+  },
+  {
+    "id": "C83184AA",
+    "name": "Champion's Spear",
+    "description": "This spear gives its victims no chance of evading, and may only be wielded by true warriors.",
+    "effect": ""
+  },
+  {
+    "id": "B4841AD8",
+    "name": "Deadeye Spear",
+    "description": "Once used by a legendary and much-loved huntsman, no enemy is swift enough to escape from this spear.",
+    "effect": "Occasionally stuns an enemy."
+  },
+  {
+    "id": "9FA9491B",
+    "name": "Crystal Spear",
+    "description": "A spear whose pure crystal tip refracts light all over the battlefield, exposing enemies' darkest secrets.",
+    "effect": "Occasionally nixes an enemy."
+  },
+  {
+    "id": "E2DEBD5E",
+    "name": "Rainbow Lance",
+    "description": "This lance's prism-shaped head can shine a light into the deepest recesses of an enemy's soul.",
+    "effect": ""
+  },
+  {
+    "id": "FBC58C1F",
+    "name": "Dragon Lance",
+    "description": "A lance that possesses those who wield it, ensuring they remain fiercely focused on the enemy at all times.",
+    "effect": ""
+  },
+  {
+    "id": "AD9F2B99",
+    "name": "Glorious Lance",
+    "description": "This proud weapon gleams like pure gold. It is said that victory is a mere formality to whoever wields it.",
+    "effect": ""
+  },
+  {
+    "id": "D0E8DFDC",
+    "name": "Giant's Spear",
+    "description": "A spear that once belonged to a ferocious, warlike giant. Its multiple blades are a fearsome sight to behold.",
+    "effect": ""
+  },
+  {
+    "id": "C9F3EE9D",
+    "name": "Longshank",
+    "description": "The prized possession of a great warrior, this long spear puts the whole battlefield within the wielder's range.",
+    "effect": ""
+  },
+  {
+    "id": "4E6BF252",
+    "name": "Lullaby Lance",
+    "description": "A lance that contains the countless embarrassing memories of a shameless Fairy Godmother.",
+    "effect": "Occasionally puts an enemy to sleep."
+  },
+  {
+    "id": "67AF655E",
+    "name": "Set of Crude Claws",
+    "description": "Animal claws that have simply been stuck together. Their curved tips make them deadly at close range.",
+    "effect": ""
+  },
+  {
+    "id": "03C3A05A",
+    "name": "Set of Bullhorn Claws",
+    "description": "A set of horn-shaped claws that are set far apart, allowing the wearer to skewer two enemies at once.",
+    "effect": ""
+  },
+  {
+    "id": "7EB4541F",
+    "name": "Set of Knucklebone Claws",
+    "description": "Sharp imitation claws, carved from the hardest bones available. Light<->weight and highly portable weapons.",
+    "effect": ""
+  },
+  {
+    "id": "559907DC",
+    "name": "Set of Woodland Claws",
+    "description": "A set of claws made from a plank of wood and liable to sprout leaves if not properly maintained.",
+    "effect": ""
+  },
+  {
+    "id": "B66DDE17",
+    "name": "Set of Haunted Claws",
+    "description": "Some say these claws are possessed by an evil spirit, but there is no actual evidence to support this.",
+    "effect": "Occasionally curses an enemy."
+  },
+  {
+    "id": "31F5C2D8",
+    "name": "Set of Tainted Claws",
+    "description": "Claws which secrete a powerful toxin that, once in the bloodstream, affects the whole body within seconds.",
+    "effect": "Occasionally poisons an enemy."
+  },
+  {
+    "id": "4C82369D",
+    "name": "Set of Gaudy Claws",
+    "description": "Dazzling golden claws that were once the property of a gambler known as the \"Casino King.\"",
+    "effect": ""
+  },
+  {
+    "id": "1AD8911B",
+    "name": "Set of Steel Claws",
+    "description": "Sharp military claws, issued to a regiment of soldiers who specialize in tackling powerful monsters.",
+    "effect": ""
+  },
+  {
+    "id": "28EEF399",
+    "name": "Set of Giant's Fingernails",
+    "description": "Heavy claws made from a set of gargantuan fingernails. Simply picking them up is beyond most people.",
+    "effect": ""
+  },
+  {
+    "id": "666D0F69",
+    "name": "Set of Six Wind Claws",
+    "description": "Claws that once belonged to a mountain spirit. Capable of unleashing a howling gale upon the enemy.",
+    "effect": "Element: [atk_storm]"
+  },
+  {
+    "id": "AF76EF56",
+    "name": "Set of Crucible Claws",
+    "description": "Pure steel claws that fit over the hand like a glove, allowing the wearer to punch through solid stone walls.",
+    "effect": ""
+  },
+  {
+    "id": "7F763E28",
+    "name": "Set of Snow Witch Claws",
+    "description": "Claws hardened by exposure to extreme cold. The wounds they inflict freeze instantly and agonizingly.",
+    "effect": "Element: [atk_water]"
+  },
+  {
+    "id": "545B6DEB",
+    "name": "Set of Ice Queen Claws",
+    "description": "Claws that contain the spirit of a sorceress queen. They cut deep, chilling the victim to the very soul.",
+    "effect": "Occasionally stuns an enemy."
+  },
+  {
+    "id": "0201CA6D",
+    "name": "Set of Ice Crystal Claws",
+    "description": "A mysterious glow is emitted from the tips of these claws, made from polished ice.",
+    "effect": "Occasionally nixes an enemy."
+  },
+  {
+    "id": "3037A8EF",
+    "name": "Set of Blackwyrm Claws",
+    "description": "The claws of a dark dragon, said to be a harbinger of doom. Their victims suffer long and agonizing torment.",
+    "effect": ""
+  },
+  {
+    "id": "292C99AE",
+    "name": "Set of Cat King's Claws",
+    "description": "A ceremonial weapon, made from the claws of the cat kings of Ding Dong Dell.",
+    "effect": ""
+  },
+  {
+    "id": "1B1AFB2C",
+    "name": "Set of Griffin's Talons",
+    "description": "The talons of a mighty griffin—truly the greatest of all beasts. Other creatures quiver in their presence.",
+    "effect": ""
+  },
+  {
+    "id": "AEB48561",
+    "name": "Set of Dragon King's Claws",
+    "description": "A rare weapon, made from the claws of an ancient dragon and usually wielded only by royalty.",
+    "effect": ""
+  },
+  {
+    "id": "B7AFB420",
+    "name": "Set of Star Eater's Claws",
+    "description": "These claws emit a magical glow, and are said to have come from a monster that feasted on the stars themselves.",
+    "effect": ""
+  },
+  {
+    "id": "4D405CAA",
+    "name": "Set of Werewolf Claws",
+    "description": "Once thought to exist only in fairy tales, these silver claws become even sharper when the moon is full.",
+    "effect": "Occasionally puts an enemy to sleep."
+  },
+  {
+    "id": "642BB130",
+    "name": "Set of Flawed Claws",
+    "description": "Bright red claws that are covered in countless spikes—inside as well as out, unfortunately.",
+    "effect": "Damages the wielder as well as the enemy."
+  },
+  {
+    "id": "525AC056",
+    "name": "Suit of Leather Armor",
+    "description": "A simple suit of armor, made from animal hide. Though fairly flimsy, it allows for great freedom of movement.",
+    "effect": ""
+  },
+  {
+    "id": "606CA2D4",
+    "name": "Suit of Rugged Armor",
+    "description": "This armor is made from sturdy animal hide, and is said to become stronger with every blow it receives.",
+    "effect": ""
+  },
+  {
+    "id": "4B41F117",
+    "name": "Iron Breastplate",
+    "description": "A basic piece of armor, beaten from a sheet of iron. Cheap, and readily available at Cawtermaster's Stores.",
+    "effect": ""
+  },
+  {
+    "id": "79779395",
+    "name": "Suit of Toughened Armor",
+    "description": "A suit of armor made from tough leather that has been heat-treated to offer extra protection.",
+    "effect": ""
+  },
+  {
+    "id": "1D1B5691",
+    "name": "Suit of Scale Armor",
+    "description": "A well-made suit of armor that offers a decent degree of protection without unduly impeding movement.",
+    "effect": ""
+  },
+  {
+    "id": "040067D0",
+    "name": "Suit of Grunt Armor",
+    "description": "Military-issue armor, forged from discarded pig iron. Cheaply available all over Hamelin.",
+    "effect": ""
+  },
+  {
+    "id": "9A834A5E",
+    "name": "Suit of Bone Mail",
+    "description": "A suit of armor made from especially tough bones. It is lighter than iron and just as robust.",
+    "effect": ""
+  },
+  {
+    "id": "36360552",
+    "name": "Suit of Mirrored Armor",
+    "description": "Armor that has been enchanted so as to ward off evil. It is said that no disaster will ever befall its wearer.",
+    "effect": ""
+  },
+  {
+    "id": "83987B1F",
+    "name": "Suit of Gale Armor",
+    "description": "Armor that has been blessed by a wind spirit. It offers its wearer protection from the storm.",
+    "effect": "Resistances: [def_storm]"
+  },
+  {
+    "id": "37F46F65",
+    "name": "Suit of Pure Steel Armor",
+    "description": "Made from specially purified steel, this armor retains its gleam during even the most bloody of battles.",
+    "effect": ""
+  },
+  {
+    "id": "61AEC8E3",
+    "name": "Suit of Champion's Armor",
+    "description": "Armor that fills its wearer with pride. Its strength derives from memories of the countless conflicts it has survived.",
+    "effect": ""
+  },
+  {
+    "id": "78B5F9A2",
+    "name": "Suit of Inferno Armor",
+    "description": "Created specifically for doing battle with fiery dragons, this armor is impervious to both heat and flame.",
+    "effect": "Resistances: [def_fire]"
+  },
+  {
+    "id": "4A839B20",
+    "name": "Suit of Royal Armor",
+    "description": "Once worn by a courageous king, this armor is said to give one the strength to overcome any fear.",
+    "effect": ""
+  },
+  {
+    "id": "5398AA61",
+    "name": "Suit of Stout Armor",
+    "description": "This thick armor is forged from heavy iron plates, sacrificing mobility for near-impregnable toughness.",
+    "effect": ""
+  },
+  {
+    "id": "2EEF5E24",
+    "name": "Suit of Enchanted Armor",
+    "description": "Decorated with enchanted gemstones, this armor confers magical protection on wizards and non-wizards alike.",
+    "effect": "Resistances: [def_fire][def_water][def_storm]"
+  },
+  {
+    "id": "05C20DE7",
+    "name": "Suit of Knight's Armor",
+    "description": "Only selected knights may don this armor, adorned with reminders of past wearers' heroic accomplishments.",
+    "effect": "Deflects damage back onto the attacker."
+  },
+  {
+    "id": "2F2D3413",
+    "name": "Suit of Dress Armor",
+    "description": "Garishly decorated golden armor that boasts a toughness not immediately apparent to the casual observer.",
+    "effect": ""
+  },
+  {
+    "id": "1CD93CA6",
+    "name": "Suit of Night Armor",
+    "description": "The impenetrable gloom which surrounds this suit of armor serves to lessen the wearer's fear of the dark.",
+    "effect": ""
+  },
+  {
+    "id": "9B412069",
+    "name": "Suit of Enigma Armor",
+    "description": "Armor that draws its power from a strange fossil. Despite its appearance, it is actually harder than steel.",
+    "effect": "Restores some received damage."
+  },
+  {
+    "id": "825A1128",
+    "name": "Suit of Boarlord's Armor",
+    "description": "A replica of a suit of armor once worn by an emperor of Hamelin. Imposing and impressively tough.",
+    "effect": ""
+  },
+  {
+    "id": "51DE1438",
+    "name": "Suit of Armor of Justice",
+    "description": "The armor of a knight who fought only to protect his friends. It has the power to heal the wounds of its wearer.",
+    "effect": ""
+  },
+  {
+    "id": "48C52579",
+    "name": "Suit of Brilliant Armor",
+    "description": "A suit of armor whose sheen inspires bravery in the meek and brings light to the darkest corners of the soul.",
+    "effect": ""
+  },
+  {
+    "id": "35B2D13C",
+    "name": "Suit of Nazcaän Armor",
+    "description": "Armor awarded to Nazcaän soldiers in order to bolster their sense of patriotism and loyalty.",
+    "effect": "Resistances: [def_fire][def_water][def_storm]"
+  },
+  {
+    "id": "63E876BA",
+    "name": "Suit of Celestial Armor",
+    "description": "Magical armor that has bathed in the light of the stars. It protects its wearer from all magical afflictions.",
+    "effect": ""
+  },
+  {
+    "id": "7AF347FB",
+    "name": "Suit of War God's Armor",
+    "description": "Once owned by a warlike deity, this battle-scarred armor possesses power beyond human comprehension.",
+    "effect": ""
+  },
+  {
+    "id": "40EF6FB8",
+    "name": "Set of Rustic Garb",
+    "description": "Everyday clothing for the citizens of Ding Dong Dell. Made from natural fibers and always cheaply available.",
+    "effect": ""
+  },
+  {
+    "id": "59F45EF9",
+    "name": "Set of Merchant's Garb",
+    "description": "Lightweight clothing said to improve its wearer's sales patter. Remember to put it on before going to market!",
+    "effect": ""
+  },
+  {
+    "id": "72D90D3A",
+    "name": "Hallowed Habit",
+    "description": "A shimmering garment, interwoven with silver thread. Its gleam has been known to confuse certain creatures.",
+    "effect": ""
+  },
+  {
+    "id": "6BC23C7B",
+    "name": "Rubber Robe",
+    "description": "A waterproof garment that has a life buoy stitched into its midriff. For those who value dryness over fashion.",
+    "effect": "Resistances: [def_water]"
+  },
+  {
+    "id": "2483AABC",
+    "name": "Fine Frock",
+    "description": "This glamorous piece of evening wear, lavishly adorned with gleaming jewels, is said to bring its wearer good luck.",
+    "effect": ""
+  },
+  {
+    "id": "3D989BFD",
+    "name": "Soldier's Smock",
+    "description": "A light garment worn by Hamelin grunts for training. Its flattering cut makes it popular with fashionistas too.",
+    "effect": ""
+  },
+  {
+    "id": "16B5C83E",
+    "name": "Misty Shroud",
+    "description": "A garment woven from strands of morning mist. It allows one to descend upon an enemy unnoticed.",
+    "effect": "Makes it easier to evade attacks."
+  },
+  {
+    "id": "8836E5B0",
+    "name": "Set of Noble Attire",
+    "description": "A fine outfit, once in the possession of a noble family. Simply putting it on is said to sharpen one's senses.",
+    "effect": ""
+  },
+  {
+    "id": "912DD4F1",
+    "name": "Champion's Tunic",
+    "description": "This traditional garment allows for great freedom of movement, and is imbued with a warrior's spirit.",
+    "effect": ""
+  },
+  {
+    "id": "412D058F",
+    "name": "Sasquash Pelt",
+    "description": "The white, furry pelt of a creature that inhabits the Winter Isles. Waterproof and very resistant to cold.",
+    "effect": "Resistances: [def_water]"
+  },
+  {
+    "id": "0FAEF97F",
+    "name": "Magic Cloak",
+    "description": "An enchanted garment. Though it offers little protection from attack, it does give wizards a magical boost.",
+    "effect": ""
+  },
+  {
+    "id": "583634CE",
+    "name": "Set of Dead Man's Duds",
+    "description": "A sinister black garment. Its wearer runs the risk of being mistaken by evil spirits for one of their own.",
+    "effect": "Renders knockout attacks ineffective."
+  },
+  {
+    "id": "731B670D",
+    "name": "Starspun Tunic",
+    "description": "This outfit exudes a pure, warm glow, and has the power to heal its wearer's body.",
+    "effect": ""
+  },
+  {
+    "id": "6A00564C",
+    "name": "Set of Wizard's Robes",
+    "description": "An outfit made using age-old techniques. It is said to confer miraculous powers upon its wearer.",
+    "effect": "Renders knockout attacks ineffective."
+  },
+  {
+    "id": "F85308DD",
+    "name": "Set of Mist Robes",
+    "description": "As worn by ancient wizards. Donning these robes is said to give a boost to one's positivity and ambition.",
+    "effect": ""
+  },
+  {
+    "id": "E148399C",
+    "name": "Set of Flame Robes",
+    "description": "Designed to be worn on journeys across the desert, these robes repel both heat and sand.",
+    "effect": "Resistances: [def_fire]"
+  },
+  {
+    "id": "CA656A5F",
+    "name": "Set of Gale Robes",
+    "description": "Lightweight robes that can deflect even the strongest wind, creating an oasis of calm around the wearer.",
+    "effect": "Resistances: [def_storm]"
+  },
+  {
+    "id": "9C3FCDD9",
+    "name": "Set of Ripple Robes",
+    "description": "Robes that are shrouded in a thin veil of moisture. Completely waterproof, they are the ideal outfit for a rainy day.",
+    "effect": "Resistances: [def_water]"
+  },
+  {
+    "id": "D37E5B1E",
+    "name": "Set of Mystic's Robes",
+    "description": "A robe of woven iron sand that allows the wearer to become attuned to nearby magnetic fields.",
+    "effect": ""
+  },
+  {
+    "id": "8524FC98",
+    "name": "Robe of Restoration",
+    "description": "A faint glow envelops this pale green robe, which is said to lift one's spirits when worn.",
+    "effect": "Restores some received damage."
+  },
+  {
+    "id": "B7129E1A",
+    "name": "Set of Sorceress's Robes",
+    "description": "Robes adorned with countless magical gems that are said to protect the wearer from calamity.",
+    "effect": "Protects against nix."
+  },
+  {
+    "id": "AE09AF5B",
+    "name": "Goddess's Gown",
+    "description": "A garment woven by a supernatural being. It offers its wearer protection from magical attacks.",
+    "effect": "Resistances: [def_fire][def_water][def_storm][def_light][def_dark]"
+  },
+  {
+    "id": "65843064",
+    "name": "Wooden Shield",
+    "description": "A basic wooden shield. It is of little real use on the battlefield, and is more commonly used as a children's toy.",
+    "effect": ""
+  },
+  {
+    "id": "57B252E6",
+    "name": "Leather Shield",
+    "description": "A light shield, made by covering a wooden frame with a piece of animal hide—the tougher the better.",
+    "effect": "Occasionally auto-blocks enemy attacks."
+  },
+  {
+    "id": "7C9F0125",
+    "name": "Shinbone Shield",
+    "description": "A crude shield, made from animal bones. The string that binds them together is the design's weak point.",
+    "effect": "Occasionally auto-blocks enemy attacks."
+  },
+  {
+    "id": "4EA963A7",
+    "name": "Iron Shield",
+    "description": "A shield made from several layers of iron. While undeniably strong, it is too heavy for most to wield. ",
+    "effect": "Occasionally auto-blocks enemy attacks."
+  },
+  {
+    "id": "01E8F560",
+    "name": "Scale Shield",
+    "description": "Made from hard scales laid on top of each other, this waterproof shield deflects most enemy blows with ease.",
+    "effect": "Occasionally auto-blocks enemy attacks."
+  },
+  {
+    "id": "2AC5A6A3",
+    "name": "Grunt Shield",
+    "description": "The basic shield of the Hamelin grunt. With the right posture, it can cover the bearer's whole body.",
+    "effect": "Occasionally auto-blocks enemy attacks."
+  },
+  {
+    "id": "AD5DBA6C",
+    "name": "Shadowglass Shield",
+    "description": "A sturdy black shield that was very popular amongst those who fought in the Wizard Wars.",
+    "effect": "Occasionally auto-blocks enemy attacks."
+  },
+  {
+    "id": "64465A53",
+    "name": "Champion's Shield",
+    "description": "The shield of a celebrated soldier. Carrying it into battle helps keep one focused on the task at hand.",
+    "effect": "Occasionally auto-blocks enemy attacks."
+  },
+  {
+    "id": "4F6B0990",
+    "name": "Avenger's Shield",
+    "description": "A curiously shaped shield with an unusually glossy surface that deflects enemy attacks.",
+    "effect": "Occasionally auto-blocks enemy attacks."
+  },
+  {
+    "id": "B4468B2D",
+    "name": "Holy Shield",
+    "description": "A shield made from a gleaming white metal. Its unblemished surface prevents the wielder from being nixed.",
+    "effect": "Protects against nix."
+  },
+  {
+    "id": "567038D1",
+    "name": "Tundra Shield",
+    "description": "A shield that lay for centuries under a thick sheet of ice. It shrugs aside the wrath of blizzards.",
+    "effect": "Resistances: [def_water]"
+  },
+  {
+    "id": "002A9F57",
+    "name": "Mystical Shield",
+    "description": "This shield offers protection from foes who would nix one, making it popular with the wizarding community.",
+    "effect": "Protects against nix."
+  },
+  {
+    "id": "321CFDD5",
+    "name": "Shield of the Pure",
+    "description": "A shield that has been cleansed of all evil. It cannot be held by those with impure intentions.",
+    "effect": "Occasionally auto-blocks enemy attacks."
+  },
+  {
+    "id": "1931AE16",
+    "name": "Goddess's Shield",
+    "description": "A shield created by a divine being. Its dainty appearance belies its incredible resilience.",
+    "effect": "Restores some received damage."
+  },
+  {
+    "id": "2B07CC94",
+    "name": "War God's Shield",
+    "description": "A shield once used by a warlike deity to swat a falling meteorite back into the night sky.",
+    "effect": "Deflects damage back onto the attacker."
+  },
+  {
+    "id": "18F3C421",
+    "name": "Shiny Shield",
+    "description": "Made from a lustrous metal, this mirrored shield disarms enemies by showing them their own reflection.",
+    "effect": "Makes auto-blocking more likely."
+  },
+  {
+    "id": "AC9FD05B",
+    "name": "Pretty Parasol",
+    "description": "Though this dainty parasol looks nothing like a shield, it is remarkably effective at deflecting enemy blows.",
+    "effect": "Resistances: [def_fire][def_water][def_storm]"
+  },
+  {
+    "id": "DD385701",
+    "name": "Wooden Helmet",
+    "description": "Basic headgear, carved from an old tree trunk. Though rather heavy, it keeps one's head well-protected.",
+    "effect": ""
+  },
+  {
+    "id": "C4236640",
+    "name": "Pointy Hat",
+    "description": "This aptly named hat is the first thing that comes to mind when one thinks of wizarding headwear.",
+    "effect": ""
+  },
+  {
+    "id": "EF0E3583",
+    "name": "Soldier's Helmet",
+    "description": "A standard piece of iron headgear. Many soldiers are loath to take them off—even in bed.",
+    "effect": ""
+  },
+  {
+    "id": "B9549205",
+    "name": "Champion's Helm",
+    "description": "A helmet made from specially purified steel. It gives the wearer a sense of strength and purpose.",
+    "effect": ""
+  },
+  {
+    "id": "A04FA344",
+    "name": "Blessed Helm",
+    "description": "A helmet that confers a blessing upon its wearer, granting safety and fortune on the battlefield.",
+    "effect": ""
+  },
+  {
+    "id": "8B62F087",
+    "name": "Helm of Hamelin",
+    "description": "A helmet worn by officers in the Hamelin army to distinguish them from ordinary grunts.",
+    "effect": "Restores some received damage."
+  },
+  {
+    "id": "15E1DD09",
+    "name": "Nazcaän Helm",
+    "description": "A helmet given only to chosen Nazcaän soldiers. It is said to prevent one's judgment from being clouded.",
+    "effect": "Resistances: [def_fire][def_water][def_storm]"
+  },
+  {
+    "id": "9279C1C6",
+    "name": "War God's Helm",
+    "description": "Once worn by a legendary warlike deity, this helm was carved from the skull of a mighty magical beast.",
+    "effect": "Deflects damage back onto the attacker."
+  },
+  {
+    "id": "97EEE8B9",
+    "name": "Leafy Mantle",
+    "description": "A cloak made from soft green leaves. It provides protection from the elements along with a soothing aroma.",
+    "effect": ""
+  },
+  {
+    "id": "8EF5D9F8",
+    "name": "Snakeskin Cloak",
+    "description": "This diamond-patterned snakeskin cloak is a delight to the touch, but a nightmare to keep clean.",
+    "effect": ""
+  },
+  {
+    "id": "A5D88A3B",
+    "name": "Cloud Cover",
+    "description": "A weightless cloak, woven from fine strands of mist. Wearing it allows one to become almost invisible.",
+    "effect": ""
+  },
+  {
+    "id": "F3822DBD",
+    "name": "Sea Breeze Cloak",
+    "description": "Having once fluttered in a sea breeze, this sailor's cloak retains some of the ocean's power.",
+    "effect": "Resistances: [def_storm]"
+  },
+  {
+    "id": "BCC3BB7A",
+    "name": "Stripy Cloak",
+    "description": "Though made from an eye-catching pelt, this cloak actually makes the wearer harder to spot.",
+    "effect": ""
+  },
+  {
+    "id": "D8AF7E7E",
+    "name": "Breezy Cloak",
+    "description": "A cloak that creates a gently caressing breeze around its wearer, warding off stronger winds.",
+    "effect": "Resistances: [def_storm]"
+  },
+  {
+    "id": "5F3762B1",
+    "name": "Caghoul",
+    "description": "Strangers tend to stay away from those who wear this unsettling ghost hair cloak.",
+    "effect": ""
+  },
+  {
+    "id": "962C828E",
+    "name": "Eagle Eye Cloak",
+    "description": "A light blue cloak that puts one in mind of clear skies. Gazing at it for too long may make you feel dizzy...",
+    "effect": "Increases the accuracy of attacks."
+  },
+  {
+    "id": "D96D1449",
+    "name": "Cyclone Cloak",
+    "description": "A strong gale is trapped amongst the fibers of this fine cloak, allowing its wearer to run like the wind itself.",
+    "effect": "Resistances: [def_storm]"
+  },
+  {
+    "id": "462C53F0",
+    "name": "Green Man's Cloak",
+    "description": "This cloak's bright color and fresh fragrance put a spring in one's step. Better still, they're wholly natural!",
+    "effect": ""
+  },
+  {
+    "id": "8F37B3CF",
+    "name": "Champion's Cloak",
+    "description": "The cloak of a great warrior. Draping it over one's shoulders fills one with courage and determination.",
+    "effect": ""
+  },
+  {
+    "id": "BD01D14D",
+    "name": "Aurora Cloak",
+    "description": "A cloak that shimmers beautifully as it ripples. Seeing it flutter in the wind puts one in mind of the aurora itself.",
+    "effect": ""
+  },
+  {
+    "id": "EB5B76CB",
+    "name": "Dusk Mantle",
+    "description": "Dyed the burned orange color of the setting sun, this soft cloak has a wonderfully calming effect.",
+    "effect": "Makes it easier to evade attacks."
+  },
+  {
+    "id": "A41AE00C",
+    "name": "Phantom Mantle",
+    "description": "This cloak uses magic to refract light, rendering the wearer invisible, and confusing enemies.",
+    "effect": "Renders knockout attacks ineffective."
+  },
+  {
+    "id": "C0762508",
+    "name": "Beast-Hide Cloak",
+    "description": "This supple cloak does not rustle when it moves, allowing its wearer to launch surprise attacks.",
+    "effect": ""
+  },
+  {
+    "id": "F240478A",
+    "name": "Necromancer's Mantle",
+    "description": "This jet-black cloak has been known to convert those who wear it to the cause of darkness...",
+    "effect": ""
+  },
+  {
+    "id": "5EF50886",
+    "name": "Heavenly Mantle",
+    "description": "This divine cloak ensures that travelers always enjoy the fairest of winds.",
+    "effect": "Makes it easier to evade attacks."
+  },
+  {
+    "id": "EA991CFC",
+    "name": "Diva's Mantle",
+    "description": "A gaudy cloak that gives wearers the wholly unfounded impression that they're better than everyone else.",
+    "effect": ""
+  },
+  {
+    "id": "660AD892",
+    "name": "Giant's Tooth",
+    "description": "A tooth taken from a giant. Its fearsome appearance prompts panic in enemies.",
+    "effect": ""
+  },
+  {
+    "id": "543CBA10",
+    "name": "Set of Beast Fangs",
+    "description": "The knife-like fangs of a ferocious wolf. They are very sharp, and excel at finding enemy weak points.",
+    "effect": ""
+  },
+  {
+    "id": "4D278B51",
+    "name": "Poisoned Fang",
+    "description": "A venomous fang that continues to drip with poison even after its surface is wiped clean. Handle with care.",
+    "effect": "Occasionally poisons an enemy."
+  },
+  {
+    "id": "02661D96",
+    "name": "Soretooth Ring",
+    "description": "Historically worn by assault troops, this type of ring robs its wearer's enemy of vitality.",
+    "effect": ""
+  },
+  {
+    "id": "294B4E55",
+    "name": "Set of Piercing Fangs",
+    "description": "A set of fangs that can penetrate any material as if it were as insubstantial as the clouds above.",
+    "effect": ""
+  },
+  {
+    "id": "7ED383E4",
+    "name": "Devil's Fang",
+    "description": "A ring made from the fang of a terrifying demon, capable of turning sturdy armor into a pile of rust.",
+    "effect": ""
+  },
+  {
+    "id": "30507F14",
+    "name": "Skullfang Ring",
+    "description": "A ring made from a fang that has pierced the flesh of countless hapless enemies.",
+    "effect": ""
+  },
+  {
+    "id": "B7C863DB",
+    "name": "Dragonstooth Ring",
+    "description": "This ornate ring, made from a dragon fang, guides its wearer's attacks toward enemy weak points.",
+    "effect": "Increases attack speed."
+  },
+  {
+    "id": "AED3529A",
+    "name": "Soulfang Necklace",
+    "description": "A necklace that absorbs energy from enemy souls, using it to strengthen the wearer's bond with familiars.",
+    "effect": "Increases familiar stamina."
+  },
+  {
+    "id": "67C8B2A5",
+    "name": "Set of Wolf Fangs",
+    "description": "Pure white fangs that cause enemies to freeze in terror. Witnessing their power chills one's very bones.",
+    "effect": ""
+  },
+  {
+    "id": "4CE5E166",
+    "name": "Crimson Fang",
+    "description": "Though stained red by the blood of countless victims, this fang still seems thirsty for more.",
+    "effect": "Deflects damage back onto the attacker."
+  },
+  {
+    "id": "03A477A1",
+    "name": "Fiend's Fang",
+    "description": "A fang that is rightly feared for the catastrophic effect it has on anything it touches—its owner included.",
+    "effect": ""
+  },
+  {
+    "id": "1ABF46E0",
+    "name": "Set of Griffin's Teeth",
+    "description": "A necklace bearing the highly prized teeth of a griffin, the beast before whom all others bow down.",
+    "effect": ""
+  },
+  {
+    "id": "31921523",
+    "name": "Harrowfang",
+    "description": "The fang of a swamp-dwelling beast. Its venom can be lethal if it makes contact with the skin.",
+    "effect": "Occasionally poisons an enemy."
+  },
+  {
+    "id": "B60A09EC",
+    "name": "Star Eater's Fang",
+    "description": "The darkly glowing fang of a legendary beast that was said to have feasted upon the stars.",
+    "effect": ""
+  },
+  {
+    "id": "1B7D2CD7",
+    "name": "Set of Nix Gnashers",
+    "description": "A set of man-made teeth that are capable of draining a victim's spirit.",
+    "effect": "Occasionally nixes an enemy."
+  },
+  {
+    "id": "55FED027",
+    "name": "Wyrmfang Ring",
+    "description": "Carved from the bones of a mighty dragon, whose ancient corpse is now a well-known mountain range.",
+    "effect": "Resistance: [def_fire]"
+  },
+  {
+    "id": "28892462",
+    "name": "White Stag's Tooth",
+    "description": "A ring adorned with a tooth taken from a legendary white stag. Beautiful to look at and effective during battle.",
+    "effect": "Resistance: [def_water]"
+  },
+  {
+    "id": "74BF777C",
+    "name": "Sturdy Scale",
+    "description": "A waterproof scale that's admired for its toughness, being very difficult to break or bend.",
+    "effect": ""
+  },
+  {
+    "id": "5F9224BF",
+    "name": "Stalwart Scale",
+    "description": "Though chosen for its toughness, this scale also has the effect of deepening a wizard's bond with their familiars.",
+    "effect": "Increases familiar stamina."
+  },
+  {
+    "id": "468915FE",
+    "name": "Set of Steel Scales",
+    "description": "Hard scales, forged from steel. They are strong and fire-resistant, yet also admirably light.",
+    "effect": ""
+  },
+  {
+    "id": "10D3B278",
+    "name": "Shadowglass Scale",
+    "description": "This darkly gleaming scale is said to make its wearer more attuned to the forces of darkness.",
+    "effect": "Trick Type Intensified: [atk_dark]"
+  },
+  {
+    "id": "09C88339",
+    "name": "Set of Storm Serpent Scales",
+    "description": "Bulky scales that once belonged to a fearsome sea serpent. Often worn as charms by superstitious sailors.",
+    "effect": "Trick Type Intensified: [atk_storm]"
+  },
+  {
+    "id": "22E5D0FA",
+    "name": "Salamander Scale",
+    "description": "A scale shaped like a dancing flame. It is said to give its wearer the power to command raging blazes.",
+    "effect": "Trick Type Intensified: [atk_fire]"
+  },
+  {
+    "id": "3BFEE1BB",
+    "name": "Deep Blue Scale",
+    "description": "An elegant azure scale that brings bodies of water under its wearer's command.",
+    "effect": "Trick Type Intensified: [atk_water]"
+  },
+  {
+    "id": "A57DCC35",
+    "name": "Set of Shining Scales",
+    "description": "Bright, amber-colored scales that give their wearer more control over the forces of light.",
+    "effect": "Trick Type Intensified: [atk_light]"
+  },
+  {
+    "id": "BC66FD74",
+    "name": "Wyrm King's Scale",
+    "description": "A dragon scale that takes a century to grow and shed. It gives the wearer a boost in every department.",
+    "effect": "Makes critical hits more likely."
+  },
+  {
+    "id": "FE35729B",
+    "name": "Medal of Strength",
+    "description": "A heavy medal, carved from stone. It has the power to summon its wearer's very last reserves of energy.",
+    "effect": "Increases attack when HP are full."
+  },
+  {
+    "id": "B174E45C",
+    "name": "Medal of Dexterity",
+    "description": "A medal created in honor of a great warrior. Its elegant design recalls his famously dexterous swordplay.",
+    "effect": "Increases attack speed."
+  },
+  {
+    "id": "834286DE",
+    "name": "Medal of Fortitude",
+    "description": "This lovingly crafted medal sports a whirlpool design which somehow serves to absorb enemy blows.",
+    "effect": ""
+  },
+  {
+    "id": "A86FD51D",
+    "name": "Medal of Agility",
+    "description": "A blessed medal that is sure to lift its wearer's spirits during drawn-out battles.",
+    "effect": "Increases movement speed."
+  },
+  {
+    "id": "CC031019",
+    "name": "Medal of Valor",
+    "description": "A medal that shines brightly when worn by the courageous. It serves as a reminder of the importance of bravery.",
+    "effect": "Increases familiar stamina."
+  },
+  {
+    "id": "9A59B79F",
+    "name": "Medal of Steadfastness",
+    "description": "A medal with a wholly unblemished surface. It is said to help protect the most vulnerable parts of one's body.",
+    "effect": "Occasionally auto-blocks enemy attacks."
+  },
+  {
+    "id": "E72E43DA",
+    "name": "Medal of Impunity",
+    "description": "A medal whose constant, dazzling gleam does tend to draw attention to the wearer.",
+    "effect": "Renders all ailments ineffective."
+  },
+  {
+    "id": "078E8F26",
+    "name": "Bravado Badge",
+    "description": "A badge that provides a swell of the self-confidence so necessary for successful spell casting.",
+    "effect": ""
+  },
+  {
+    "id": "801693E9",
+    "name": "Braggart's Badge",
+    "description": "A badge that compels wearers to always give of their best, raising their spirits and strengthening their muscles.",
+    "effect": ""
+  },
+  {
+    "id": "990DA2A8",
+    "name": "Battler's Badge",
+    "description": "Made from very sturdy materials, this badge helps protect its wearer from enemy blows.",
+    "effect": ""
+  },
+  {
+    "id": "490D73D6",
+    "name": "Adamant Badge",
+    "description": "This badge's crest grants its wearer the determination never to give up in the face of adversity.",
+    "effect": "Prevents knockouts when HP are high."
+  },
+  {
+    "id": "2D61B6D2",
+    "name": "Fire Seal",
+    "description": "A badge adorned with a roaring blaze. It protects its wearer from fiery attacks.",
+    "effect": "Resistance: [def_fire]"
+  },
+  {
+    "id": "63E24A22",
+    "name": "Avenger's Badge",
+    "description": "A powerful badge that allows the wearer to draw strength from suffering endured.",
+    "effect": "Deflects damage back onto the attacker."
+  },
+  {
+    "id": "50164297",
+    "name": "Bracer Badge",
+    "description": "A badge said to contain a warrior's soul, bearing the image of a shield. It strengthens its wearer's defense.",
+    "effect": "Occasionally auto-blocks enemy attacks."
+  },
+  {
+    "id": "347A8793",
+    "name": "Water Seal",
+    "description": "A badge adorned with a raindrop. It protects its wearer from water-based attacks.",
+    "effect": "Resistance: [def_water]"
+  },
+  {
+    "id": "1F57D450",
+    "name": "Storm Seal",
+    "description": "A badge adorned with tempestuous winds. It protects its wearer from storm-based attacks.",
+    "effect": "Resistance: [def_storm]"
+  },
+  {
+    "id": "1E95BE67",
+    "name": "Ironclad Badge",
+    "description": "A badge given to warriors who have defensive roles, enabling them to guard more effectively.",
+    "effect": "Decreases movement speed."
+  },
+  {
+    "id": "62202015",
+    "name": "Hot-Blooded Badge",
+    "description": "Once worn by a passionate warrior, this badge gives its wearer a burning desire to fight for justice.",
+    "effect": "Increases movement speed."
+  },
+  {
+    "id": "51D428A0",
+    "name": "Brinkman's Badge",
+    "description": "A badge that grants its wearer power at times of crisis, turning potential disaster into opportunity.",
+    "effect": "Increases attack when HP are low."
+  },
+  {
+    "id": "35B8EDA4",
+    "name": "Bastion Badge",
+    "description": "A badge that reminds its wearer that victory is always possible, even when staring defeat in the face.",
+    "effect": "Increases defense when HP are low."
+  },
+  {
+    "id": "7B3B1154",
+    "name": "Hardheaded Badge",
+    "description": "A badge said to contain a warrior's soul, bearing the image of a helmet. It strengthens its wearer's defense.",
+    "effect": ""
+  },
+  {
+    "id": "2CA3DCE5",
+    "name": "Barrier Badge",
+    "description": "A unique-looking badge that erects a transparent defensive barrier in front of its wearer. ",
+    "effect": ""
+  },
+  {
+    "id": "7AF97B63",
+    "name": "Berserker's Badge",
+    "description": "A badge that contains the soul of a warrior who was prepared to make sacrifices in order to achieve his ends.",
+    "effect": "Increases attack but lowers defense."
+  },
+  {
+    "id": "064CE511",
+    "name": "Omniseal",
+    "description": "A badge adorned with the all-seeing eye. It protects its wearer from all kinds of attack.",
+    "effect": "Increases resistance to all attack types."
+  }
+]

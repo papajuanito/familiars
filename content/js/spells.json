@@ -1,0 +1,530 @@
+[
+  {
+    "id": "C90267B0",
+    "name": "Form Familiar",
+    "number": "Spell No. 1",
+    "description": "Summons forth a familiar from the caster's heart to fight beside them.",
+    "effect": null,
+    "mp": 0
+  },
+  {
+    "id": "D01956F1",
+    "name": "Gateway",
+    "number": "Spell No. 2",
+    "description": "Opens up a doorway that transports the caster between worlds.",
+    "effect": null,
+    "mp": 0
+  },
+  {
+    "id": "FB340532",
+    "name": "Healing Touch",
+    "number": "Spell No. 3",
+    "description": "Heals wounds with a warm rush of kindheartedness.",
+    "effect": "Restore a single ally's HP.",
+    "mp": 3
+  },
+  {
+    "id": "E22F3473",
+    "name": "Draw Poison",
+    "number": "Spell No. 4",
+    "description": "Cures those whose health is being sapped by poison.",
+    "effect": "Cure a single ally of poison.",
+    "mp": 4
+  },
+  {
+    "id": "AD6EA2B4",
+    "name": "Healing Hand",
+    "number": "Spell No. 5",
+    "description": "Completely heals even the gravest of wounds.",
+    "effect": "Completely restore a single ally's HP.",
+    "mp": 18
+  },
+  {
+    "id": "B47593F5",
+    "name": "Take Heart",
+    "number": "Spell No. 6",
+    "description": "Liberates some of a consenting subject's emotional essence.",
+    "effect": null,
+    "mp": 0
+  },
+  {
+    "id": "9F58C036",
+    "name": "Give Heart",
+    "number": "Spell No. 7",
+    "description": "Restores balance to broken hearts.",
+    "effect": null,
+    "mp": 0
+  },
+  {
+    "id": "8643F177",
+    "name": "Spring Lock",
+    "number": "Spell No. 8",
+    "description": "Encourages that which is shut tight to open. Does not work on human hearts.",
+    "effect": null,
+    "mp": 2
+  },
+  {
+    "id": "1DBEDB8",
+    "name": "Travel",
+    "number": "Spell No. 9",
+    "description": "Transports the caster instantaneously to a location they have visited before.",
+    "effect": null,
+    "mp": 1
+  },
+  {
+    "id": "18C0DCF9",
+    "name": "Levitate",
+    "number": "Spell No. 10",
+    "description": "Gently lifts the caster off the ground for a short period of time.",
+    "effect": null,
+    "mp": 5
+  },
+  {
+    "id": "C8C00D87",
+    "name": "Second Self",
+    "number": "Spell No. 11",
+    "description": "Creates a short-lived doppelganger of the caster.",
+    "effect": null,
+    "mp": 0
+  },
+  {
+    "id": "D1DB3CC6",
+    "name": "Vanish",
+    "number": "Spell No. 12",
+    "description": "Causes the caster to become invisible to the naked eye. Useful for hiding.",
+    "effect": null,
+    "mp": 0
+  },
+  {
+    "id": "FAF66F05",
+    "name": "Chart Chests",
+    "number": "Spell No. 13",
+    "description": "Reveals the whereabouts of nearby treasure chests in enclosed locations.",
+    "effect": null,
+    "mp": 5
+  },
+  {
+    "id": "E3ED5E44",
+    "name": "Veil",
+    "number": "Spell No. 14",
+    "description": "Masks the caster's scent, preventing detection by the creatures of the wild.",
+    "effect": null,
+    "mp": 10
+  },
+  {
+    "id": "ACACC883",
+    "name": "Magic Lamp",
+    "number": "Spell No. 15",
+    "description": "Makes what is dark light—if only for a short while.",
+    "effect": null,
+    "mp": 1
+  },
+  {
+    "id": "B5B7F9C2",
+    "name": "Nature's Tongue",
+    "number": "Spell No. 16",
+    "description": "Enables the caster to speak to animals and plants, and even to enlist their aid.",
+    "effect": null,
+    "mp": 2
+  },
+  {
+    "id": "9E9AAA01",
+    "name": "Quicken Growth",
+    "number": "Spell No. 17",
+    "description": "Speeds the growth of plants, but shortens their lives.",
+    "effect": null,
+    "mp": 3
+  },
+  {
+    "id": "87819B40",
+    "name": "Mimic",
+    "number": "Spell No. 18",
+    "description": "Grants the caster the ability to imitate any voice, be it that of man, woman, or child.",
+    "effect": null,
+    "mp": 0
+  },
+  {
+    "id": "19878F",
+    "name": "Vacate",
+    "number": "Spell No. 19",
+    "description": "Plucks the caster from the depths of even the most dangerous place in an instant.",
+    "effect": null,
+    "mp": 1
+  },
+  {
+    "id": "1902B6CE",
+    "name": "Seek Fortune",
+    "number": "Spell No. 20",
+    "description": "Reveals the whereabouts of nearby treasure chests in the great outdoors.",
+    "effect": null,
+    "mp": 3
+  },
+  {
+    "id": "CA86B3DE",
+    "name": "Rejuvenate",
+    "number": "Spell No. 21",
+    "description": "Rewinds time for an object, restoring it to its former glory.",
+    "effect": null,
+    "mp": 0
+  },
+  {
+    "id": "D39D829F",
+    "name": "Fuse",
+    "number": "Spell No. 22",
+    "description": "Enables the creation of certain items that cannot be cooked up in a cauldron.",
+    "effect": null,
+    "mp": 3
+  },
+  {
+    "id": "F8B0D15C",
+    "name": "Breach Time",
+    "number": "Spell No. 23",
+    "description": "Transports the caster to a desired point in time.\\nCan only be used once in a lifetime.",
+    "effect": null,
+    "mp": 0
+  },
+  {
+    "id": "E1ABE01D",
+    "name": "Ward",
+    "number": "Spell No. 24",
+    "description": "Protects the caster from magical attacks, reducing the damage sustained from spells and tricks.",
+    "effect": "Increase all allies' magical defense.",
+    "mp": 16
+  },
+  {
+    "id": "AEEA76DA",
+    "name": "Nix",
+    "number": "Spell No. 25",
+    "description": "Allows accomplished wizards to prevent opponents from using magic.",
+    "effect": "Prevent an enemy from using magic.",
+    "mp": 12
+  },
+  {
+    "id": "B7F1479B",
+    "name": "Secret Ingredient",
+    "number": "Spell No. 26",
+    "description": "Conjures up cuisine with a truly magical taste.",
+    "effect": null,
+    "mp": 0
+  },
+  {
+    "id": "9CDC1458",
+    "name": "Loaf Of Life",
+    "number": "Spell No. 27",
+    "description": "Produces emergency rations in times of direst need.",
+    "effect": null,
+    "mp": 0
+  },
+  {
+    "id": "85C72519",
+    "name": "Bridge",
+    "number": "Spell No. 28",
+    "description": "Builds magical bridges over rivers and chasms where none previously existed.",
+    "effect": null,
+    "mp": 4
+  },
+  {
+    "id": "25F39D6",
+    "name": "Spirit Medium",
+    "number": "Spell No. 29",
+    "description": "Allows the caster to speak to the spirits of the departed—both good and evil.",
+    "effect": null,
+    "mp": 5
+  },
+  {
+    "id": "1B440897",
+    "name": "Puppet String",
+    "number": "Spell No. 30",
+    "description": "Enables the caster to manipulate statues and other objects as if they had a life of their own.",
+    "effect": null,
+    "mp": 5
+  },
+  {
+    "id": "CB44D9E9",
+    "name": "Insight",
+    "number": "Spell No. 31",
+    "description": "Gives the caster an insight into the past of a well-loved object and its owner.",
+    "effect": null,
+    "mp": 0
+  },
+  {
+    "id": "D25FE8A8",
+    "name": "Open Mind",
+    "number": "Spell No. 32",
+    "description": "Channels the caster's concern for a troubled soul to render their thoughts audible.",
+    "effect": null,
+    "mp": 0
+  },
+  {
+    "id": "F972BB6B",
+    "name": "Burden",
+    "number": "Spell No. 33",
+    "description": "Weighs down certain subjects, slowing their movement.",
+    "effect": "Reduce a single enemy's agility.",
+    "mp": 5
+  },
+  {
+    "id": "E0698A2A",
+    "name": "Fortune's Fool",
+    "number": "Spell No. 34",
+    "description": "Entrusts the caster's fate to a higher power. Who knows what might happen?",
+    "effect": "Try your luck.",
+    "mp": 20
+  },
+  {
+    "id": "976EBABC",
+    "name": "Fortune's Fool",
+    "number": "Spell No. 34",
+    "description": "",
+    "effect": "A boulder falls out of nowhere!",
+    "mp": 20
+  },
+  {
+    "id": "E67EB06",
+    "name": "Fortune's Fool",
+    "number": "Spell No. 34",
+    "description": "",
+    "effect": "Lightning strikes!",
+    "mp": 20
+  },
+  {
+    "id": "7960DB90",
+    "name": "Fortune's Fool",
+    "number": "Spell No. 34",
+    "description": "",
+    "effect": "Your HP are restored!",
+    "mp": 20
+  },
+  {
+    "id": "E7044E33",
+    "name": "Fortune's Fool",
+    "number": "Spell No. 34",
+    "description": "",
+    "effect": "A sinister voice rings out!",
+    "mp": 20
+  },
+  {
+    "id": "90037EA5",
+    "name": "Fortune's Fool",
+    "number": "Spell No. 34",
+    "description": "",
+    "effect": "Your MP are restored!",
+    "mp": 20
+  },
+  {
+    "id": "AF281CED",
+    "name": "Shift Shape",
+    "number": "Spell No. 35",
+    "description": "Allows the caster to assume the shape of another life-form, also granting the use of its abilities.",
+    "effect": "Take on another form.",
+    "mp": 0
+  },
+  {
+    "id": "B6332DAC",
+    "name": "Shrink",
+    "number": "Spell No. 36",
+    "description": "Causes the caster to become tiny. Recasting the spell will reverse its effects.",
+    "effect": null,
+    "mp": 0
+  },
+  {
+    "id": "9D1E7E6F",
+    "name": "Werecat",
+    "number": "Spell No. 37",
+    "description": "Transforms the caster into a cat, offering an insight into the essence of felinity.",
+    "effect": null,
+    "mp": 0
+  },
+  {
+    "id": "84054F2E",
+    "name": "Werefish",
+    "number": "Spell No. 38",
+    "description": "Transforms the caster into a fish, granting an understanding of the language of the deep.",
+    "effect": null,
+    "mp": 0
+  },
+  {
+    "id": "39D53E1",
+    "name": "Cloudburst",
+    "number": "Spell No. 39",
+    "description": "Causes a driving rain to fall, as if the very heavens had opened.",
+    "effect": "Damage and possibly nix all enemies.",
+    "mp": 15
+  },
+  {
+    "id": "1A8662A0",
+    "name": "Thunder<->storm",
+    "number": "Spell No. 40",
+    "description": "Summons a violent storm that deals great damage to the enemy.",
+    "effect": "Damage all enemies with lightning.",
+    "mp": 20
+  },
+  {
+    "id": "CE0BCF6C",
+    "name": "Fireball",
+    "number": "Spell No. 41",
+    "description": "Sends forth a ball of fire to scorch the enemy.\\nCan also be used to light lanterns.",
+    "effect": "Damage a single enemy with fire.",
+    "mp": 4
+  },
+  {
+    "id": "D710FE2D",
+    "name": "Pulse",
+    "number": "Spell No. 42",
+    "description": "Emits a wave of energy that damages enemies, and can also move distant objects.",
+    "effect": "Damage a single enemy.",
+    "mp": 9
+  },
+  {
+    "id": "FC3DADEE",
+    "name": "Frostbite",
+    "number": "Spell No. 43",
+    "description": "Freezes enemies and objects solid. Can also be used to extinguish fires.",
+    "effect": "Damage a single enemy with ice.",
+    "mp": 6
+  },
+  {
+    "id": "E5269CAF",
+    "name": "Arrow Of Light",
+    "number": "Spell No. 44",
+    "description": "Looses a high-speed bolt of light that is said to be powerful enough to exorcise demons.",
+    "effect": "Damage a single enemy with light.",
+    "mp": 12
+  },
+  {
+    "id": "AA670A68",
+    "name": "Unleash",
+    "number": "Spell No. 45",
+    "description": "Calls forth beings of great power to aid the caster. Requires considerable mental strength.",
+    "effect": "Summon a powerful being.",
+    "mp": 0
+  },
+  {
+    "id": "DD603AFE",
+    "name": "Windfall",
+    "number": "Spell No. 45",
+    "description": "",
+    "effect": "Deal storm damage to nearby enemies.",
+    "mp": 18
+  },
+  {
+    "id": "44696B44",
+    "name": "Everblade",
+    "number": "Spell No. 45",
+    "description": "",
+    "effect": "Deal physical damage to a single enemy.",
+    "mp": 21
+  },
+  {
+    "id": "336E5BD2",
+    "name": "Devastation",
+    "number": "Spell No. 45",
+    "description": "",
+    "effect": "Deal physical damage to all enemies.",
+    "mp": 23
+  },
+  {
+    "id": "AD0ACE71",
+    "name": "Volcanic Roar",
+    "number": "Spell No. 45",
+    "description": "",
+    "effect": "Deal fire damage to all enemies.",
+    "mp": 26
+  },
+  {
+    "id": "DA0DFEE7",
+    "name": "Bolt From The Blue",
+    "number": "Spell No. 45",
+    "description": "",
+    "effect": "Deal storm damage to all enemies.",
+    "mp": 32
+  },
+  {
+    "id": "4304AF5D",
+    "name": "Howling Blizzard",
+    "number": "Spell No. 45",
+    "description": "",
+    "effect": "Deal water damage to all enemies.",
+    "mp": 36
+  },
+  {
+    "id": "B37C3B29",
+    "name": "Evenstar",
+    "number": "Spell No. 46",
+    "description": "Summons forth calamity and darkness, plunging all into despair.",
+    "effect": "Damage all enemies with darkness.",
+    "mp": 45
+  },
+  {
+    "id": "985168EA",
+    "name": "Astra",
+    "number": "Spell No. 47",
+    "description": "A spell whose name exists only in legend, and which only the most legendary of wands can cast.",
+    "effect": "Damage all enemies with light.",
+    "mp": 60
+  },
+  {
+    "id": "814A59AB",
+    "name": "Quake",
+    "number": "Spell No. 48",
+    "description": "Shakes the earth with a violent tremor, damaging enemies, and even toppling buildings.",
+    "effect": "Damage all enemies with a tremor.",
+    "mp": 20
+  },
+  {
+    "id": "6D24564",
+    "name": "Poison Apple",
+    "number": "Spell No. 49",
+    "description": "Creates a poisoned apple that induces a death-like state when eaten.",
+    "effect": null,
+    "mp": 0
+  },
+  {
+    "id": "1FC97425",
+    "name": "Broom Broom",
+    "number": "Spell No. 50",
+    "description": "Breathes life into brooms, cloud sweepers, and other brush-like objects.",
+    "effect": null,
+    "mp": 1
+  },
+  {
+    "id": "CFC9A55B",
+    "name": "Ashes Of Resurrection",
+    "number": "Spell No. 51",
+    "description": "Brings the dead back to life, but at great cost. The use of this spell is forbidden.",
+    "effect": null,
+    "mp": 30
+  },
+  {
+    "id": "D6D2941A",
+    "name": "Mornstar",
+    "number": "Spell No. 52",
+    "description": "Sends spheres of light to scourge wrong-doers. The eponymous spell of the legendary wand.",
+    "effect": "Damage a single enemy with light.",
+    "mp": 36
+  },
+  {
+    "id": "C7113608",
+    "name": "Fallen Star",
+    "number": "Spell No. 53",
+    "description": "Fallen Star",
+    "effect": "Fallen Star",
+    "mp": 1
+  },
+  {
+    "id": "DE0A0749",
+    "name": "Nix",
+    "number": "Spell No. 54",
+    "description": "Nix",
+    "effect": "Nix",
+    "mp": 1
+  },
+  {
+    "id": "F527548A",
+    "name": "Ashes Of Resurrection",
+    "number": "Spell No. 55",
+    "description": "Ashes of Resurrection",
+    "effect": "Ashes of Resurrection",
+    "mp": 1
+  }
+]
